@@ -16,6 +16,7 @@ jobs:
         with:
           key: ${{ secrets.SERVER_SSH_KEY }}
           known_hosts: ${{ secrets.SERVER_FINGERPRINT }}
+      - run: echo "${{ secrets.ANSIBLE_VAULT_KEY }}" > vault.key
       - run: pip install --upgrade setuptools
       - run: pip install 'ansible ~= 2.9'
       - run: ansible-playbook ops/app.yml --inventory ops/inventories/production.yml --tags update-declarations --limit p2b-compliance
