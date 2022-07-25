@@ -1,0 +1,11 @@
+{
+  "name": "Fairbnb.coop",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://fairbnb.coop/terms-of-use/",
+      "select": [
+        ".et_pb_row_0"
+      ]
+    }
+  }
+}
