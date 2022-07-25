@@ -1,0 +1,11 @@
+{
+  "name": "eMAG",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.emag.ro/help/termeni-si-conditii/",
+      "select": [
+        ".article-text"
+      ]
+    }
+  }
+}
