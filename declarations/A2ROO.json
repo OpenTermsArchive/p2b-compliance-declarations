@@ -1,0 +1,11 @@
+{
+  "name": "A2ROO",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://a2roo.coopcycle.org/fr/terms",
+      "select": [
+        ".content"
+      ]
+    }
+  }
+}
