@@ -1,0 +1,11 @@
+{
+  "name": "FREE NOW",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.free-now.com/ie/pfa-driver-as-of-may2021/",
+      "select": [
+        ".content"
+      ]
+    }
+  }
+}
