@@ -1,0 +1,11 @@
+{
+  "name": "Expedia",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://apps.expediapartnercentral.com/static/lodging/TermsOfUse.html",
+      "select": [
+        ".all-grid-align-center > .fds-cell"
+      ]
+    }
+  }
+}
