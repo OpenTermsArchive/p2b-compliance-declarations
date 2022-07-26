@@ -10,7 +10,7 @@
     "Privacy Policy": {
       "fetch": "https://fairbnb.coop/privacy-statement/",
       "select": [
-        ".et_pb_row_0"
+        "#main-content"
       ]
     }
   }
