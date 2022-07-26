@@ -4,7 +4,7 @@
     "Developer Terms": {
       "fetch": "https://dev.epicgames.com/en-US/services/terms/agreements",
       "select": [
-        ".container"
+        ".content"
       ]
     }
   }
