@@ -1,0 +1,14 @@
+{
+  "name": "Fresha",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://terms.fresha.com/terms-service",
+      "select": [
+        ".termswrapper"
+      ],
+      "remove": [
+        ".termswrapper__menu"
+      ]
+    }
+  }
+}
