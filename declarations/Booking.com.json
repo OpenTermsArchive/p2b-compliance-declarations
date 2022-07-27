@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en",
       "select": [
-        ".container:nth-child(2)"
+        "header + .container"
       ]
     }
   }
