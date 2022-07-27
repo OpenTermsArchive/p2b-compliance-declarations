@@ -4,7 +4,10 @@
     "Terms of Service": {
       "fetch": "https://terms.fresha.com/terms-service",
       "select": [
-        ".termswrapper > div > #hs_cos_wrapper_module_164371666996624_"
+        ".termswrapper"
+      ],
+      "remove": [
+        ".termswrapper__menu"
       ]
     }
   }
