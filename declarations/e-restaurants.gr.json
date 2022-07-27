@@ -1,0 +1,11 @@
+{
+  "name": "e-restaurants.gr",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.e-restaurants.gr/en/terms",
+      "select": [
+        ".margin_detail"
+      ]
+    }
+  }
+}
