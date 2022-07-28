@@ -1,0 +1,14 @@
+{
+  "name": "zentrada",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.tradesafe.eu/eu/con-seller",
+      "select": [
+        ".text"
+      ],
+      "remove": [
+        "blockquote"
+      ]
+    }
+  }
+}
