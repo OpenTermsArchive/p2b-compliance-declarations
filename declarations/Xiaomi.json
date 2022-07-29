@@ -1,0 +1,11 @@
+{
+  "name": "Xiaomi",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://static.account.xiaomi.com/html/agreement/user/global/en_US.html",
+      "select": [
+        ".content"
+      ]
+    }
+  }
+}
