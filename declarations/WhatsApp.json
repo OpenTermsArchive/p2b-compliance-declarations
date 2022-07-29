@@ -1,0 +1,16 @@
+{
+  "name": "WhatsApp",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.whatsapp.com/legal/business-terms",
+      "select": [
+        "._9t2g"
+      ],
+      "remove": [
+        "._9t2j",
+        "._9tjr",
+        "._9t2k"
+      ]
+    }
+  }
+}
