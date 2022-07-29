@@ -1,0 +1,8 @@
+{
+  "name": "Yoojo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://yoojo.fr/jobber-terms-fr.pdf"
+    }
+  }
+}
