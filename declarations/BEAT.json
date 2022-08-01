@@ -1,0 +1,15 @@
+{
+  "name": "BEAT",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://thebeat.co/en/terms/?intl=1",
+      "select": [
+        ".site-content"
+      ],
+      "remove": [
+        ".bottom-pane",
+        ".top-bar"
+      ]
+    }
+  }
+}
