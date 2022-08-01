@@ -1,0 +1,19 @@
+{
+  "name": "Daft.ie",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://publish.daft.ie/legal",
+      "select": [
+        "body"
+      ],
+      "remove": [
+        ".headerrow:nth-child(1)",
+        "#heading-container",
+        ".row:nth-child(1)",
+        ".row:nth-child(2)",
+        "#gc_links > ul",
+        "#breadcrumbs"
+      ]
+    }
+  }
+}
