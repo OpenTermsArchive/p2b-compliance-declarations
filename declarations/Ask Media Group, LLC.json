@@ -1,0 +1,11 @@
+{
+  "name": "Ask Media Group, LLC",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ask.com/terms?qo=footerLinks",
+      "select": [
+        ".PartialTermsOfService-content"
+      ]
+    }
+  }
+}
