@@ -1,0 +1,15 @@
+{
+  "name": "YOUSURE",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://durchblicker.at/agb#nutzerkonto",
+      "select": [
+        ".content"
+      ],
+      "remove": [
+        ".content > p:nth-child(4)",
+        "#inhaltsverzeichnis"
+      ]
+    }
+  }
+}
