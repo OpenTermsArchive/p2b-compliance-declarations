@@ -1,0 +1,21 @@
+{
+  "name": "Amazon.com",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://sellercentral.amazon.co.uk/gp/help/external/201190440",
+      "select": [
+        ".fhpPage"
+      ],
+      "remove": [
+        "#article-country-msg > .a-box-inner",
+        "#breadcrumbs",
+        ".a-row:nth-child(1) > .a-box > .a-padding-base",
+        ".a-row:nth-child(1) > .header-box > .a-box-inner",
+        ".a-row:nth-child(2)",
+        "#sell-on-amazon-section",
+        "#eh-contents",
+        "footer > p"
+      ]
+    }
+  }
+}
