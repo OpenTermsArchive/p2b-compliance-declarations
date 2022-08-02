@@ -1,0 +1,11 @@
+{
+  "name": "Autobazar.EU",
+  "documents": {
+    "Ad Publishing Policy": {
+      "fetch": "https://www.autobazar.eu/uk/terms.php",
+      "select": [
+        "body"
+      ]
+    }
+  }
+}
