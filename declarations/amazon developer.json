@@ -1,0 +1,11 @@
+{
+  "name": "amazon developer",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://developer.amazon.com/es/support/legal/da",
+      "select": [
+        ".online-agreement-system-document > div"
+      ]
+    }
+  }
+}
