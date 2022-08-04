@@ -1,0 +1,11 @@
+{
+  "name": "Geizhals ",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://unternehmen.geizhals.at/allgemeine-geschaeftsbedingungen/",
+      "select": [
+        ".page-template-default"
+      ]
+    }
+  }
+}
