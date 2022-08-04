@@ -1,0 +1,11 @@
+{
+  "name": "GoPillar",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://gopillar.com/it/terms-conditions/",
+      "select": [
+        ".section"
+      ]
+    }
+  }
+}
