@@ -1,0 +1,8 @@
+{
+  "name": "Fruugo",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://sell.fruugo.com/downloads/FruugoRetailerTermsAndConditions.pdf"
+    }
+  }
+}
