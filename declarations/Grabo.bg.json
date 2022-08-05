@@ -1,0 +1,11 @@
+{
+  "name": "Grabo.bg",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://grabo.bg/terms/transparency",
+      "select": [
+        "#textpage"
+      ]
+    }
+  }
+}
