@@ -1,0 +1,11 @@
+{
+  "name": "grosshandel.eu",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.grosshandel.eu/agb.php",
+      "select": [
+        "#main"
+      ]
+    }
+  }
+}
