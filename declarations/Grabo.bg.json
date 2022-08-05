@@ -1,0 +1,11 @@
+{
+  "name": "Grabo.bg",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://grabo.bg/terms",
+      "select": [
+        "#textpage"
+      ]
+    }
+  }
+}
