@@ -1,0 +1,8 @@
+{
+  "name": "Hlprs",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://uploads-hlprs.s3.eu-central-1.amazonaws.com/uploads/docs/general/Terms-and-conditions-Hlprs.pdf"
+    }
+  }
+}
