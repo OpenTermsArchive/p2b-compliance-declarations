@@ -1,0 +1,11 @@
+{
+  "name": "GURUWALK",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.guruwalk.com/terms/terms_policy#s2",
+      "select": [
+        ".col-lg-8"
+      ]
+    }
+  }
+}
