@@ -1,0 +1,11 @@
+{
+  "name": "Helpling",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.helpling.co.uk/provider_terms",
+      "select": [
+        "#content"
+      ]
+    }
+  }
+}
