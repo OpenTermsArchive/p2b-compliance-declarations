@@ -1,0 +1,12 @@
+{
+  "name": "Huawei",
+  "documents": {
+    "Developer Terms": {
+      "fetch": "https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169",
+      "select": [
+        ".ant-layout-content"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
