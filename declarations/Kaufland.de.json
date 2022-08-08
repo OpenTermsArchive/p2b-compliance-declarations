@@ -1,0 +1,11 @@
+{
+  "name": "Kaufland.de",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.kaufland.de/agb/haendler-agb/",
+      "select": [
+        ".rd-legacy-css > .rd-content-page"
+      ]
+    }
+  }
+}
