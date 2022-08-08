@@ -1,0 +1,11 @@
+{
+  "name": "Groupon Merchant",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.groupon.com/merchant/legal/terms-of-use",
+      "select": [
+        ".page-content"
+      ]
+    }
+  }
+}
