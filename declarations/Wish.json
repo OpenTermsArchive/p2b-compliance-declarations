@@ -4,8 +4,7 @@
     "Marketplace Sellers Conditions": {
       "fetch": "https://merchant.wish.com/terms-of-service",
       "select": [
-        "div > .root_dbrs30:nth-child(1) > .p_z9w6jj",
-        ".terms_1cfsmh3 > div"
+        "#content"
       ],
       "executeClientScripts": true
     }
