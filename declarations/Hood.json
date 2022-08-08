@@ -4,7 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.hood.de/nutzungsbedingungen.htm",
       "select": [
-        "#printDiv > .col-xs-60"
+        "#printDiv"
+      ],
+      "remove": [
+        ".sidebar-offcanvas"
       ]
     }
   }
