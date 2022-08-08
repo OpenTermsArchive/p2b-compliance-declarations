@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.groupon.com/merchant/legal/terms-of-use",
       "select": [
-        "#content"
+        ".page-content"
       ]
     }
   }
