@@ -1,0 +1,14 @@
+{
+  "name": "Yahoo!",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html",
+      "select": [
+        "#site-main"
+      ],
+      "remove": [
+        "li:nth-child(14) > ol > li:nth-child(-n+12):nth-child(n+2)"
+      ]
+    }
+  }
+}
