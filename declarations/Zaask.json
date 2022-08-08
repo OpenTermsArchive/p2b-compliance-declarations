@@ -4,10 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.zaask.pt/termos",
       "select": [
-        ".styles__Wrapper-sc-1yjkzrk-1"
+        ".site-content"
       ],
       "remove": [
-        ".col-12"
+        ".breadcrumb"
       ]
     }
   }
