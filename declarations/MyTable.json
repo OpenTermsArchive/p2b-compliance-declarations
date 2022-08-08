@@ -1,0 +1,11 @@
+{
+  "name": "MyTable",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mytable.sa/#/clientAgreement",
+      "select": [
+        ".privacyPolicy > .container"
+      ]
+    }
+  }
+}
