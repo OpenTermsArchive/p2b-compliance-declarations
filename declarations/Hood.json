@@ -1,0 +1,14 @@
+{
+  "name": "Hood",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.hood.de/nutzungsbedingungen.htm",
+      "select": [
+        "#printDiv"
+      ],
+      "remove": [
+        ".sidebar-offcanvas"
+      ]
+    }
+  }
+}
