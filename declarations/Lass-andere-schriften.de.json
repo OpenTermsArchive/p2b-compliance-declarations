@@ -1,0 +1,11 @@
+{
+  "name": "Lass-andere-schriften.de",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.lass-andere-schreiben.de/agb-und-datenschutz",
+      "select": [
+        ".medium-12:nth-child(5)"
+      ]
+    }
+  }
+}
