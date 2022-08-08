@@ -1,0 +1,11 @@
+{
+  "name": "Letzhop",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://letzshop.lu/fr/agb",
+      "select": [
+        ".db-Container > .container"
+      ]
+    }
+  }
+}
