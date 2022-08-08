@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://yandex.com/legal/termsofservice/index.html",
       "select": [
-        ".doc-c-article"
+        ".doc-c-main"
       ]
     }
   }
