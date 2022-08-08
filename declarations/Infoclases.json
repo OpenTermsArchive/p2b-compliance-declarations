@@ -1,0 +1,11 @@
+{
+  "name": "Infoclases",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://infoclases.com/terminoslegales",
+      "select": [
+        ".container_condiciones_legales"
+      ]
+    }
+  }
+}
