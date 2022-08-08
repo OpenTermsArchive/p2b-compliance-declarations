@@ -1,0 +1,14 @@
+{
+  "name": "Zaask",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.zaask.pt/termos",
+      "select": [
+        ".site-content"
+      ],
+      "remove": [
+        ".breadcrumb"
+      ]
+    }
+  }
+}
