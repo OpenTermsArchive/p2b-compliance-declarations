@@ -1,10 +1,10 @@
 {
-  "name": "Hasznaltauto",
+  "name": "Használtautó",
   "documents": {
     "Terms of Service": {
       "fetch": "https://adatvedelem.hasznaltauto.hu/aszf/",
       "select": [
-        ".container"
+        ".page-article"
       ]
     }
   }
