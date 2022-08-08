@@ -4,7 +4,7 @@
     "Commercial Terms": {
       "fetch": "https://zoltyapp.com/terminos-y-condiciones-de-uso-para-taxistas/",
       "select": [
-        ".vc_column-inner > .wpb_wrapper"
+        ".entry-content"
       ]
     }
   }
