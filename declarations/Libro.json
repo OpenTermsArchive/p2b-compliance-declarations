@@ -1,0 +1,11 @@
+{
+  "name": "Libro",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://librorez.com/en/terms/",
+      "select": [
+        ".et_pb_section_20"
+      ]
+    }
+  }
+}
