@@ -1,0 +1,11 @@
+{
+  "name": "Microsoft Store",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://blogs.microsoft.com/on-the-issues/2022/02/09/open-app-store-principles-activision-blizzard/",
+      "select": [
+        ".entry-content"
+      ]
+    }
+  }
+}
