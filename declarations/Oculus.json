@@ -1,0 +1,11 @@
+{
+  "name": "Oculus",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://developer.oculus.com/policy/p2b/",
+      "select": [
+        ".k73y8m3b > div:nth-child(1)"
+      ]
+    }
+  }
+}
