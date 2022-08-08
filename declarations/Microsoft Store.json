@@ -1,0 +1,8 @@
+{
+  "name": "Microsoft Store",
+  "documents": {
+    "Developer Terms": {
+      "fetch": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4YJB0"
+    }
+  }
+}
