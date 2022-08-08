@@ -4,7 +4,11 @@
     "Terms of Service": {
       "fetch": "https://www.guruwalk.com/terms/terms_policy#s2",
       "select": [
-        ".col-lg-8"
+        ".terms-container"
+      ],
+      "remove": [
+        ".left-navi",
+        ".profile-navbar"
       ]
     }
   }
