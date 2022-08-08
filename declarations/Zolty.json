@@ -1,0 +1,11 @@
+{
+  "name": "Zolty",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://zoltyapp.com/terminos-y-condiciones-de-uso-para-taxistas/",
+      "select": [
+        ".entry-content"
+      ]
+    }
+  }
+}
