@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.houzz.ie/proServicesAgreement",
       "select": [
-        "#mainContent"
+        "#main-content"
       ]
     }
   }
