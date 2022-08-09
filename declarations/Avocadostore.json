@@ -1,0 +1,11 @@
+{
+  "name": "Avocadostore",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.avocadostore.de/terms_of_use",
+      "select": [
+        ".avo-layout-sitenav__content"
+      ]
+    }
+  }
+}
