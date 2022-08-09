@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.getjar.com/info/terms/",
       "select": [
-        ".cms"
+        ".content"
       ]
     }
   }
