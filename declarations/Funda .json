@@ -1,0 +1,12 @@
+{
+  "name": "Funda ",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.funda.nl/en/gebruiksvoorwaarden/",
+      "select": [
+        "#content"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
