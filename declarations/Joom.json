@@ -1,0 +1,12 @@
+{
+  "name": "Joom",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://merchant.joom.com/eu/terms/",
+      "select": [
+        ".A"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
