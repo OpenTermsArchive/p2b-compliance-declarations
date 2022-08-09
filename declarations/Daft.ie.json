@@ -4,15 +4,11 @@
     "Terms of Service": {
       "fetch": "https://publish.daft.ie/legal",
       "select": [
-        "body"
+        "#notice",
+        "#gc_content"
       ],
       "remove": [
-        ".headerrow:nth-child(1)",
-        "#heading-container",
-        ".row:nth-child(1)",
-        ".row:nth-child(2)",
-        "#gc_links > ul",
-        "#breadcrumbs"
+        "#gc_links"
       ]
     }
   }
