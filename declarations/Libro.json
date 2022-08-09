@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://librorez.com/en/terms/",
       "select": [
-        ".et_pb_section_20"
+        "#main-content .et_pb_section:nth-child(-n+2)"
       ]
     }
   }
