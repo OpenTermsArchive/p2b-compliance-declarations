@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.njuskalo.hr/?alias=disclaimer&ctl=show_static_page",
       "select": [
-        ".block-standard--with-tabs > .block-standard-content"
+        ".static-page-main-content"
       ]
     }
   }
