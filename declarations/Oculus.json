@@ -6,6 +6,9 @@
       "select": [
         "h1, h1 ~ *"
       ],
+      "filter": [
+        "cleanUrls"
+      ],
       "executeClientScripts": true
     }
   }
