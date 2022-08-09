@@ -4,8 +4,9 @@
     "Terms of Service": {
       "fetch": "https://mytable.sa/#/clientAgreement",
       "select": [
-        ".privacyPolicy > .container"
-      ]
+        ".privacyPolicy"
+      ],
+      "executeClientScripts": true
     }
   }
 }
