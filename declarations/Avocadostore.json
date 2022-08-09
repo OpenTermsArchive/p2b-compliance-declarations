@@ -4,9 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.avocadostore.de/terms_of_use",
       "select": [
-        ".avo-mod-content-block:nth-child(1)",
-        "#ranking-info",
-        ".avo-mod-content-block:nth-child(3)"
+        ".avo-layout-sitenav__content"
       ]
     }
   }
