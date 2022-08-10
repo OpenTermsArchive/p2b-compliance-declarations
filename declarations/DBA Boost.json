@@ -1,0 +1,11 @@
+{
+  "name": "DBA Boost",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://info.dba.dk/boost/vilkaar/v3/brugervilkaar",
+      "select": [
+        "main"
+      ]
+    }
+  }
+}
