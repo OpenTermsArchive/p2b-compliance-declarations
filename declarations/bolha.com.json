@@ -4,12 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.bolha.com/index.php?ctl=show_static_page&alias=disclaimer",
       "select": [
-        ".passage-standard"
-      ],
-      "remove": [
-        "p:nth-child(45) > strong",
-        "ul:nth-child(46) > li:nth-child(1) > a",
-        "ul:nth-child(46) > li:nth-child(2)"
+        "main"
       ]
     }
   }
