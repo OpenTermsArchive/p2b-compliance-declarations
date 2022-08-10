@@ -5,9 +5,6 @@
       "fetch": "https://www.wecasa.fr/conditions-generales",
       "select": [
         ".global-pages__content"
-      ],
-      "remove": [
-        ".title--align-center"
       ]
     }
   }
