@@ -1,0 +1,12 @@
+{
+  "name": "Letzshop",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://letzshop.lu/fr/agb",
+      "select": {
+        "startBefore": "#provider",
+        "endBefore": ".ft-Footer"
+      }
+    }
+  }
+}
