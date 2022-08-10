@@ -4,11 +4,12 @@
     "Terms of Service": {
       "fetch": "https://durchblicker.at/agb#nutzerkonto",
       "select": [
-        ".content"
-      ],
-      "remove": [
-        ".content > p:nth-child(4)",
-        "#inhaltsverzeichnis"
+        "#agb",
+        "h2[id^='stand-']",
+        {
+          "startBefore": "h2[id^='allgemeine-bedingungen-f-r-die",
+          "endBefore": "h2[id^='allgemeine-bedingungen-f-r-versicherungsmakler"
+        }
       ]
     }
   }
