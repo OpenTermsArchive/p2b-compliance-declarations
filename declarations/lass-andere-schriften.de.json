@@ -4,7 +4,12 @@
     "Terms of Service": {
       "fetch": "https://www.lass-andere-schreiben.de/agb-und-datenschutz",
       "select": [
-        ".medium-12:nth-child(5)"
+        ".legalAndPrivacyPage"
+      ],
+      "remove": [
+        ".breadcrumbs",
+        ".column:nth-child(5)",
+        "h1"
       ]
     }
   }
