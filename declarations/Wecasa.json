@@ -1,0 +1,11 @@
+{
+  "name": "Wecasa",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wecasa.fr/conditions-generales",
+      "select": [
+        ".global-pages__content"
+      ]
+    }
+  }
+}
