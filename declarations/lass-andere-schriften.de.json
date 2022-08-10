@@ -11,6 +11,17 @@
         ".column:nth-child(5)",
         "h1"
       ]
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.lass-andere-schreiben.de/agb-und-datenschutz",
+      "select": [
+        ".legalAndPrivacyPage"
+      ],
+      "remove": [
+        ".breadcrumbs",
+        ".column:nth-child(6),.column:nth-child(7)",
+        "h1"
+      ]
     }
   }
 }
