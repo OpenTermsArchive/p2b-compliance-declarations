@@ -1,0 +1,11 @@
+{
+  "name": "WENGO",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wengo.fr/a-propos/cgu",
+      "select": [
+        ".content_size_major"
+      ]
+    }
+  }
+}
