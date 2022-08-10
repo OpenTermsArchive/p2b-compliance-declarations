@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.wengo.fr/a-propos/cgu",
       "select": [
-        ".widget-text"
+        ".content_size_major"
       ]
     }
   }
