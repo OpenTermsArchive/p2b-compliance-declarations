@@ -1,0 +1,9 @@
+{
+  "name": "Vinted",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.vinted.es/pro-guide",
+      "select": "#content"
+    }
+  }
+}
