@@ -1,0 +1,11 @@
+{
+  "name": "abogados365.com",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.abogados365.com/aviso_legal",
+      "select": [
+        ".max-wrapper"
+      ]
+    }
+  }
+}
