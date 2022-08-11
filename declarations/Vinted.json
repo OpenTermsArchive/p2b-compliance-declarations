@@ -3,9 +3,7 @@
   "documents": {
     "Marketplace Sellers Conditions": {
       "fetch": "https://www.vinted.es/pro-guide",
-      "select": [
-        ".c-cell--wide .c-cell__body"
-      ]
+      "select": "#content"
     }
   }
 }
