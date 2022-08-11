@@ -1,0 +1,15 @@
+{
+  "name": "Viedit",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://viedit.com/agreement",
+      "select": [
+        ".container-fluid"
+      ],
+      "remove": [
+        ".container-fluid > div:nth-child(2)",
+        ".container-fluid > div:nth-child(3)"
+      ]
+    }
+  }
+}
