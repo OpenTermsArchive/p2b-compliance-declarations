@@ -3,9 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://vimeo.com/terms",
-      "select": [
-        ".otnotice-sections"
-      ],
+      "select": "#legal_doc",
       "executeClientScripts": true
     }
   }
