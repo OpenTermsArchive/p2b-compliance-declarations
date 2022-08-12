@@ -1,0 +1,8 @@
+{
+  "name": "Foody",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://portal.foody.com.cy/res/foody/tos/foody_owner_tos_el.pdf"
+    }
+  }
+}
