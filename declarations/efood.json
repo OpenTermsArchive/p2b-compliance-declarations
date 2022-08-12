@@ -1,0 +1,8 @@
+{
+  "name": "efood",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.e-food.gr/site-assets/documents/efood/General_T&Cs_12072021-1.pdf"
+    }
+  }
+}
