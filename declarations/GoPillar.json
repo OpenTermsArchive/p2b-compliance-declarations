@@ -1,0 +1,11 @@
+{
+  "name": "GoPillar",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gopillar.com/it/terms-conditions/",
+      "select": [
+        "main"
+      ]
+    }
+  }
+}
