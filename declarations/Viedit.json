@@ -1,0 +1,11 @@
+{
+  "name": "Viedit",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://viedit.com/agreement",
+      "select": [
+        ".wrapper"
+      ]
+    }
+  }
+}
