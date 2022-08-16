@@ -1,0 +1,11 @@
+{
+  "name": "Autoplius.lt",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://en.autoplius.lt/informacija/terms",
+      "select": [
+        ".page-content"
+      ]
+    }
+  }
+}
