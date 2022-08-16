@@ -4,7 +4,12 @@
     "Ad Publishing Policy": {
       "fetch": "https://www.hood.de/tips/1472/ranking-optimieren.htm",
       "select": [
-        "#printDiv > .col-xs-60"
+        "#printDiv"
+      ],
+      "remove": [
+        "#sidebar",
+        ".iShopTeaser + .iSection",
+        ".iShopTeaser"
       ]
     }
   }
