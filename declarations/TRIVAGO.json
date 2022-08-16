@@ -5,7 +5,8 @@
       "fetch": "https://studio.trivago.com/home/terms-and-conditions",
       "select": [
         "main section"
-      ]
+      ],
+      "executeClientScripts": true
     }
   }
 }
