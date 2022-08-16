@@ -1,0 +1,11 @@
+{
+  "name": "www.DirectMarket.gr",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.directmarket.gr/dmarket/marketplc/static/termsofuse.jsp",
+      "select": [
+        ".terms"
+      ]
+    }
+  }
+}
