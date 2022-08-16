@@ -1,0 +1,11 @@
+{
+  "name": "ViaVan",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.viavan.com/terms-of-use/",
+      "select": [
+        ".content"
+      ]
+    }
+  }
+}
