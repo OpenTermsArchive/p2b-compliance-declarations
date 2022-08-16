@@ -1,0 +1,14 @@
+{
+  "name": "vidaXL",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.vidaxl.es/terms-conditions-seller-vidaxl.html",
+      "select": [
+        "#maincontent"
+      ],
+      "remove": [
+        ".breadcrumb"
+      ]
+    }
+  }
+}
