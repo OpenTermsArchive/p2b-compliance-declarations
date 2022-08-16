@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://en.autoplius.lt/informacija/terms",
       "select": [
-        ".panel-text"
+        ".page-content"
       ]
     }
   }
