@@ -4,10 +4,10 @@
     "Terms of Service": {
       "fetch": "https://tripadvisor.mediaroom.com/ie-terms-of-use",
       "select": [
-        ".wd_standard-detail"
+        "#wd_printable_content"
       ],
       "remove": [
-        ".wd_toolbar"
+        "#wd_printable_content .wd_toolbar"
       ]
     }
   }
