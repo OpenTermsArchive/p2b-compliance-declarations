@@ -1,0 +1,11 @@
+{
+  "name": "Verivox",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.verivox.de/company/agb-serviceanbieter-telekommunikation/",
+      "select": [
+        ".page-content"
+      ]
+    }
+  }
+}
