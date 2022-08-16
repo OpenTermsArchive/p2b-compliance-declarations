@@ -4,14 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.vidaxl.es/terms-conditions-seller-vidaxl.html",
       "select": [
-        "#maincontent > .container"
+        "#maincontent"
       ],
       "remove": [
-        ".breadcrumb",
-        "p:nth-child(232)",
-        "p:nth-child(231)",
-        "p:nth-child(230)",
-        "p:nth-child(229)"
+        ".breadcrumb"
       ]
     }
   }
