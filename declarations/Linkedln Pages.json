@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.linkedin.com/legal/l/linkedin-pages-terms",
       "select": [
-        ".component:nth-child(1) > .rich-text"
+        "#lithograph-app"
       ]
     }
   }
