@@ -1,0 +1,11 @@
+{
+  "name": "Barqo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://barqo.co/en/terms-conditions",
+      "select": [
+        ".container"
+      ]
+    }
+  }
+}
