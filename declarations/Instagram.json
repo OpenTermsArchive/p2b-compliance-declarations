@@ -1,0 +1,17 @@
+{
+  "name": "Instagram",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://help.instagram.com/581066165581870",
+      "select": [
+        "#cms-help-content-results"
+      ],
+      "remove": [
+        {
+          "startBefore": "[id^=\"survey_container\"]",
+          "endBefore": "#objects_container + div"
+        }
+      ]
+    }
+  }
+}
