@@ -1,0 +1,14 @@
+{
+  "name": "Twitter",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://twitter.com/en/tos#intlTerms",
+      "select": [
+        {
+          "startBefore": "#intlTerms",
+          "endBefore": "footer"
+        }
+      ]
+    }
+  }
+}
