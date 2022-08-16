@@ -1,0 +1,11 @@
+{
+  "name": "ZVAB",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.abebooks.com/docs/booksellercentral/agreement/na-agreement-2018-09.shtml",
+      "select": [
+        ".Page-main"
+      ]
+    }
+  }
+}
