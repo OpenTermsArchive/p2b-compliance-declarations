@@ -4,7 +4,7 @@
     "Commercial Terms": {
       "fetch": "https://studio.trivago.com/home/terms-and-conditions",
       "select": [
-        ".tw-max-w-4xl"
+        "main section"
       ]
     }
   }
