@@ -4,11 +4,10 @@
     "Terms of Service": {
       "fetch": "https://twitter.com/en/tos#intlTerms",
       "select": [
-        ".ct07-chapters:nth-child(8) > .ct07",
-        ".ct01__wrapper > .b02-rich-text:nth-child(4) > .b02__rich-text"
-      ],
-      "remove": [
-        ".b02-rich-text:nth-child(45) p:nth-child(5) > a"
+        {
+          "startBefore": "#intlTerms",
+          "endBefore": "footer"
+        }
       ]
     }
   }
