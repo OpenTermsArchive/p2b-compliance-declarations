@@ -13,6 +13,19 @@
       "remove": [
         ".rules-head img"
       ]
+    },
+    "Commercial Terms": {
+      "fetch": "https://thebeat.co/en/terms/?intl=1",
+      "select": [
+        ".rules-head",
+        {
+          "startBefore": ".terms-content h1:nth-of-type(2)",
+          "endBefore": ".bottom-pane"
+        }
+      ],
+      "remove": [
+        ".rules-head img"
+      ]
     }
   }
 }
