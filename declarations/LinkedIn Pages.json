@@ -1,0 +1,11 @@
+{
+  "name": "LinkedIn Pages",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.linkedin.com/legal/l/linkedin-pages-terms",
+      "select": [
+        "#lithograph-app"
+      ]
+    }
+  }
+}
