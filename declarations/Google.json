@@ -2,7 +2,16 @@
   "name": "Google",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://policies.google.com/terms?hl=en-US"
+      "fetch": "https://policies.google.com/terms?hl=en-US",
+      "select": [
+        {
+          "startBefore": "#toc-intro",
+          "endBefore": "[data-tracker-id]"
+        }
+      ],
+      "remove": [
+        "[role=\"navigation\"]"
+      ]
     }
   }
 }
