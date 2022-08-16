@@ -1,0 +1,12 @@
+{
+  "name": "TRIVAGO",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://studio.trivago.com/home/terms-and-conditions",
+      "select": [
+        "main section"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
