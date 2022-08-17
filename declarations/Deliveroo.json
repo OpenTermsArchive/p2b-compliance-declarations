@@ -1,0 +1,11 @@
+{
+  "name": "Deliveroo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://restaurants.deliveroo.com/en-ie/terms",
+      "select": [
+        ".Terms-271af24dcbeb415e > div:nth-child(2)"
+      ]
+    }
+  }
+}
