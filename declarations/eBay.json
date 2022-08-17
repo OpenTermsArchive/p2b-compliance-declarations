@@ -1,0 +1,11 @@
+{
+  "name": "eBay",
+  "documents": {
+    "Complaints Policy": {
+      "fetch": "https://www.ebay.ie/pages/help/policies/legal-imprint.html",
+      "select": [
+        ".gryBxMainBar > .cnt"
+      ]
+    }
+  }
+}
