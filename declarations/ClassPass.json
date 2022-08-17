@@ -1,0 +1,11 @@
+{
+  "name": "ClassPass",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://studios.classpass.com/help/spain_portugal/terms",
+      "select": [
+        ".legal-content-cms"
+      ]
+    }
+  }
+}
