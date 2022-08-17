@@ -1,0 +1,14 @@
+{
+  "name": "Amazon",
+  "documents": {
+    "Developer Terms": {
+      "fetch": "https://developer.amazon.com/support/legal/alexa-hipaa-baa",
+      "select": [
+        ".online-agreement-system-document > div > div"
+      ],
+      "remove": [
+        "em"
+      ]
+    }
+  }
+}
