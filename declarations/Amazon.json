@@ -2,7 +2,7 @@
   "name": "Amazon",
   "documents": {
     "Developer Terms": {
-      "fetch": "https://developer.amazon.com/es/support/legal/da",
+      "fetch": "https://developer.amazon.com/en/support/legal/da",
       "select": {
         "startBefore": "h1",
         "endBefore": "#updates"
