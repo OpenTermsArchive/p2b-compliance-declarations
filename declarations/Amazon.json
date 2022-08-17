@@ -1,7 +1,7 @@
 {
-  "name": "amazon developer",
+  "name": "Amazon",
   "documents": {
-    "Terms of Service": {
+    "Developer Terms": {
       "fetch": "https://developer.amazon.com/es/support/legal/da",
       "select": [
         ".online-agreement-system-document > div"
