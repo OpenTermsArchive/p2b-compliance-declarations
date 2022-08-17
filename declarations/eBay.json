@@ -1,0 +1,14 @@
+{
+  "name": "eBay",
+  "documents": {
+    "Imprint": {
+      "fetch": "https://www.ebay.ie/pages/help/policies/legal-imprint.html",
+      "select": [
+        ".HelpContent"
+      ],
+      "remove": [
+        ".anchorTop"
+      ]
+    }
+  }
+}
