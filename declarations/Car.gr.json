@@ -1,0 +1,11 @@
+{
+  "name": "Car.gr",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.car.gr/information/terms/?lang=en",
+      "select": [
+        ".page_container"
+      ]
+    }
+  }
+}
