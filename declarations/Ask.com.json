@@ -1,0 +1,11 @@
+{
+  "name": "Ask.com",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ask.com/terms",
+      "select": [
+        ".PartialTermsOfService"
+      ]
+    }
+  }
+}
