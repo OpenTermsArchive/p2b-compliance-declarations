@@ -1,0 +1,15 @@
+{
+  "name": "Deliveroo",
+  "documents": {
+    "Complaints Policy": {
+      "fetch": "https://help.deliveroo.com/en/articles/4239076-deliveroo-s-partner-support-policy",
+      "select": [
+        ".paper"
+      ],
+      "remove": [
+        ".avatar__info > div",
+        ".intercom-reaction-picker"
+      ]
+    }
+  }
+}
