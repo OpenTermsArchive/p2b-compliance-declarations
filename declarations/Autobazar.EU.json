@@ -1,0 +1,11 @@
+{
+  "name": "Autobazar.EU",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.autobazar.eu/uk/terms.php",
+      "select": [
+        "body"
+      ]
+    }
+  }
+}
