@@ -1,0 +1,15 @@
+{
+  "name": "Expedia",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://apps.expediapartnercentral.com/static/lodging/TermsOfUse.html",
+      "select": [
+        ".fds-main-content"
+      ],
+      "remove": [
+        ".fds-page-actions",
+        ".fds-trigger-menu-overflow"
+      ]
+    }
+  }
+}
