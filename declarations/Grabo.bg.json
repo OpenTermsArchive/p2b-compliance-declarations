@@ -6,6 +6,12 @@
       "select": [
         "#textpage"
       ]
+    },
+    "Commercial Terms": {
+      "fetch": "https://grabo.bg/terms/transparency",
+      "select": [
+        "#textpage"
+      ]
     }
   }
 }
