@@ -19,10 +19,10 @@
     "Terms of Service": {
       "fetch": "https://www.mturk.com/participation-agreement",
       "select": [
-        ".container:nth-child(2)"
+        ".agreement"
       ],
       "remove": [
-        ".btn-start"
+        ".agreement a[href=\"/get-started\"]"
       ]
     }
   }
