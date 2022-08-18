@@ -4,7 +4,15 @@
     "Ad Publishing Policy": {
       "fetch": "https://www.autobazar.eu/uk/terms.php",
       "select": [
-        "body"
+        "h1",
+        {
+          "startBefore": "#jump6",
+          "endBefore": "#jump7"
+        },
+        {
+          "startBefore": "#jump9",
+          "endBefore": "#jump11"
+        }
       ]
     }
   }
