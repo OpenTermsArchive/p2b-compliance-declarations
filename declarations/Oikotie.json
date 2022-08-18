@@ -1,0 +1,11 @@
+{
+  "name": "Oikotie",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.oikotie.fi/kayttoehdot/en",
+      "select": [
+        ".TermsOfService__terms-of-service___2lpK_"
+      ]
+    }
+  }
+}
