@@ -11,8 +11,8 @@
     "Marketplace Sellers Conditions": {
       "fetch": "https://sellercentral.amazon.co.uk/gp/help/external/G5TUVJKZHUVMN77V?language=en_GB&ref=efph_G5TUVJKZHUVMN77V_cont_521",
       "select": [
-        ".help-content > div",
-        ".page"
+        ".page",
+        ".help-content"
       ]
     }
   }
