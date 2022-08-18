@@ -1,7 +1,7 @@
 {
   "name": "Vrbo",
   "documents": {
-    "Terms of Service": {
+    "Commercial Terms": {
       "fetch": "https://www.vrbo.com/es-es/legal/terminos-condiciones-propietarios",
       "select": [
         ".ContentArea__Main"
