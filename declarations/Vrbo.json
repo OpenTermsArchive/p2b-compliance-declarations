@@ -1,17 +1,6 @@
 {
   "name": "Vrbo",
   "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.vrbo.com/es-mx/legal/terminos-condiciones",
-      "select": [
-        ".ContentArea__Main"
-      ],
-      "remove": [
-        "#breadcrumb",
-        ".btn-default > .SVGIcon",
-        ".btn__label.sr-only"
-      ]
-    },
     "Commercial Terms": {
       "fetch": "https://www.vrbo.com/es-es/legal/terminos-condiciones-propietarios",
       "select": [
