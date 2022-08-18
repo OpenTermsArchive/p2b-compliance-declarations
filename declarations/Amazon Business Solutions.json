@@ -1,0 +1,15 @@
+{
+  "name": "Amazon Business Solutions",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://sellercentral.amazon.co.uk/gp/help/external/201190440",
+      "select": [
+        "#full-help-page"
+      ],
+      "remove": [
+        "#article-country-msg",
+        "#breadcrumbs"
+      ]
+    }
+  }
+}
