@@ -1,0 +1,16 @@
+{
+  "Terms of Service": [
+    {
+      "fetch": "https://www.vrbo.com/es-es/legal/terminos-condiciones-propietarios",
+      "select": [
+        ".ContentArea__Main"
+      ],
+      "remove": [
+        "#breadcrumb",
+        ".btn-default > .SVGIcon",
+        ".btn__label.sr-only"
+      ],
+      "validUntil": "2022-07-26T10:37:32+04:00"
+    }
+  ]
+}

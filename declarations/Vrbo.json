@@ -2,7 +2,7 @@
   "name": "Vrbo",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.vrbo.com/es-es/legal/terminos-condiciones-propietarios",
+      "fetch": "https://www.vrbo.com/es-mx/legal/terminos-condiciones",
       "select": [
         ".ContentArea__Main"
       ],
