@@ -5,6 +5,9 @@
       "fetch": "https://fairbnb.coop/terms-of-use/",
       "select": [
         "#main-content"
+      ],
+      "filter": [
+        "unifyEmailProtectedAddresses"
       ]
     },
     "Privacy Policy": {
