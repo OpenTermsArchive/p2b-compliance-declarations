@@ -1,0 +1,11 @@
+{
+  "name": "Reverb",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://reverb.com/legal/reverbcom-terms-of-use",
+      "select": [
+        ".viewport-bleed.ptb-6 > .site-wrapper"
+      ]
+    }
+  }
+}
