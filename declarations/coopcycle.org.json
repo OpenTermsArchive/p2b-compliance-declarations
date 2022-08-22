@@ -1,0 +1,11 @@
+{
+  "name": "coopcycle.org",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://robinfood.coopcycle.org/it/terms",
+      "select": [
+        ".content"
+      ]
+    }
+  }
+}
