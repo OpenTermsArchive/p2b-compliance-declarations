@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://reverb.com/legal/reverbcom-terms-of-use",
       "select": [
-        ".ptb-6 > .site-wrapper"
+        ".viewport-bleed.ptb-6 > .site-wrapper"
       ]
     }
   }
