@@ -1,0 +1,14 @@
+{
+  "name": "Resonate",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://resonate.is/terms-conditions/",
+      "select": [
+        "#page"
+      ],
+      "remove": [
+        ".skip-link"
+      ]
+    }
+  }
+}
