@@ -1,0 +1,11 @@
+{
+  "name": "Rnters",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://market.flecto.io/en/terms",
+      "select": [
+        "[class^=\"Terms_terms-section__\"]:not([class^=\"Terms_terms-section__wrapper\"])"
+      ]
+    }
+  }
+}
