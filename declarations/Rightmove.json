@@ -1,0 +1,11 @@
+{
+  "name": "Rightmove",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.rightmove.co.uk/this-site/terms-of-use.html",
+      "select": [
+        ".contentWrapper"
+      ]
+    }
+  }
+}
