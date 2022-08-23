@@ -1,0 +1,11 @@
+{
+  "name": "Okazii.ro",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://ajutor.okazii.ro/termeni-si-conditii",
+      "select": [
+        ".post"
+      ]
+    }
+  }
+}
