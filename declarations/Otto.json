@@ -1,7 +1,7 @@
 {
   "name": "Otto",
   "documents": {
-    "Terms of Service": {
+    "Marketplace Sellers Conditions": {
       "fetch": "https://www.otto.market/en/t-and-c.html",
       "select": [
         ".neos-contentcollection"
