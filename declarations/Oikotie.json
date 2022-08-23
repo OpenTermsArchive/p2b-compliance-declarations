@@ -4,8 +4,14 @@
     "Terms of Service": {
       "fetch": "https://www.oikotie.fi/kayttoehdot/en",
       "select": [
-        ".TermsOfService__terms-of-service___2lpK_"
-      ]
+        "[class^=\"TermsOfService__terms-of-service__\"]"
+      ],
+      "remove": [
+        "[class^=\"TermsOfService__terms-of-service__\"] header",
+        "[class^=\"TermsOfService__go-back__\"]",
+        "[class^=\"TermsOfService__go-back__\"]"
+      ],
+      "executeClientScripts": true
     }
   }
 }
