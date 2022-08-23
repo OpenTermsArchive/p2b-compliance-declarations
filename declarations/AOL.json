@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html",
       "select": [
-        ".no-top-margin .grid"
+        "#site-main"
       ]
     }
   }
