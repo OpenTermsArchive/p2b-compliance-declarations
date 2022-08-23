@@ -1,0 +1,16 @@
+{
+  "name": "Eatwith",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://intercom.help/eatwith/en/articles/1498030-hosts-charter",
+      "select": [
+        ".section__article"
+      ],
+      "remove": [
+        ".avatar__photo",
+        ".intercom-reaction-picker",
+        ".breadcrumb"
+      ]
+    }
+  }
+}
