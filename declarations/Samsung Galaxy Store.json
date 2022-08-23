@@ -1,7 +1,7 @@
 {
   "name": "Samsung Galaxy Store",
   "documents": {
-    "Terms of Service": {
+    "Commercial Terms": {
       "fetch": "https://seller.samsungapps.com/help/termsAndConditions.as",
       "select": [
         "#DW_ContentsWrap"
