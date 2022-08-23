@@ -1,0 +1,11 @@
+{
+  "name": "Otto",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.otto.market/en/t-and-c.html",
+      "select": [
+        ".neos-contentcollection"
+      ]
+    }
+  }
+}
