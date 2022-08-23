@@ -4,11 +4,12 @@
     "Complaints Policy": {
       "fetch": "https://help.deliveroo.com/en/articles/4239076-deliveroo-s-partner-support-policy",
       "select": [
-        ".paper"
+        ".section__article"
       ],
       "remove": [
-        ".avatar__info > div",
-        ".intercom-reaction-picker"
+        ".intercom-reaction-picker",
+        ".breadcrumb",
+        ".avatar__image"
       ]
     }
   }
