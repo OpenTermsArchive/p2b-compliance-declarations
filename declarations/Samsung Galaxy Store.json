@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://seller.samsungapps.com/help/termsAndConditions.as",
       "select": [
-        ".sitemapBoxWidth"
+        "#DW_ContentsWrap"
       ]
     }
   }
