@@ -1,0 +1,11 @@
+{
+  "name": "AOL",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html",
+      "select": [
+        "#site-main"
+      ]
+    }
+  }
+}
