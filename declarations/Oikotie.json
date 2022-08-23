@@ -9,7 +9,7 @@
       "remove": [
         "[class^=\"TermsOfService__terms-of-service__\"] header",
         "[class^=\"TermsOfService__go-back__\"]",
-        "[class^=\"TermsOfService__go-back__\"]"
+        "[class^=\"ScrollToTop__\"]"
       ],
       "executeClientScripts": true
     }
