@@ -1,0 +1,17 @@
+{
+  "name": "Oikotie",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.oikotie.fi/kayttoehdot/en",
+      "select": [
+        "[class^=\"TermsOfService__terms-of-service__\"]"
+      ],
+      "remove": [
+        "[class^=\"TermsOfService__terms-of-service__\"] header",
+        "[class^=\"TermsOfService__go-back__\"]",
+        "[class^=\"ScrollToTop__\"]"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
