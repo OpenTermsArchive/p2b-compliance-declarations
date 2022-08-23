@@ -1,0 +1,11 @@
+{
+  "name": "Leroy Merlin",
+  "documents": {
+    "Marketplace Buyers Conditions": {
+      "fetch": "https://assets.ctfassets.net/8q8qvv8j6cpk/2PIw5462x09MZUhJEM4Dwm/e703da6e0c1731b2f767d6c5515dca14/2020_05_04_ConditionsGeneralesdutilisationdelaMarketplace.pdf"
+    },
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://assets.ctfassets.net/8q8qvv8j6cpk/2PIw5462x09MZUhJEM4Dwm/e703da6e0c1731b2f767d6c5515dca14/2020_05_04_ConditionsGeneralesdutilisationdelaMarketplace.pdf"
+    }
+  }
+}
