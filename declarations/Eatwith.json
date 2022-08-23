@@ -4,11 +4,12 @@
     "Marketplace Sellers Conditions": {
       "fetch": "https://intercom.help/eatwith/en/articles/1498030-hosts-charter",
       "select": [
-        ".paper"
+        ".section__article"
       ],
       "remove": [
-        ".avatar__info > div",
-        ".intercom-reaction-picker"
+        ".avatar__photo",
+        ".intercom-reaction-picker",
+        ".breadcrumb"
       ]
     }
   }
