@@ -1,0 +1,12 @@
+{
+  "name": "Spotify for Podcasters",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.spotify.com/us/legal/spotify-for-podcasters-platform-terms/",
+      "select": [
+        ".legal-body"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
