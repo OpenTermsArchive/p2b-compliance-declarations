@@ -1,0 +1,12 @@
+{
+  "name": "Tweakers",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://tweakers.net/info/algemene-voorwaarden/",
+      "select": [
+        ".centeredContent"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
