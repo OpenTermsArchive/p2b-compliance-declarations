@@ -9,6 +9,15 @@
       "remove": [
         ".main-container footer"
       ]
+    },
+    "Privacy Policy": {
+      "fetch": "https://info.tradera.com/en/integritetespolicy-eng/",
+      "select": [
+        ".main-container"
+      ],
+      "remove": [
+        ".main-container > footer"
+      ]
     }
   }
 }
