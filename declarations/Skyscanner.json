@@ -1,0 +1,11 @@
+{
+  "name": "Skyscanner",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.partners.skyscanner.net/privacy-policy?hsLang=en",
+      "select": [
+        ".col8"
+      ]
+    }
+  }
+}
