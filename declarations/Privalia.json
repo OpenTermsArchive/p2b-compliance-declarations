@@ -1,0 +1,8 @@
+{
+  "name": "Privalia",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://es.privalia.com/privaliadocs/es/condiciones-de-uso-y-venta.pdf"
+    }
+  }
+}
