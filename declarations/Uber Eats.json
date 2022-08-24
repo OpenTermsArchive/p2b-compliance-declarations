@@ -7,6 +7,13 @@
         "#legal-info"
       ],
       "executeClientScripts": true
+    },
+    "Commercial Terms": {
+      "fetch": "https://www.uber.com/legal/en/document/?name=uber-eats-merchant-order-form&country=republic-of-ireland&lang=en-gb",
+      "select": [
+        "#legal-info"
+      ],
+      "executeClientScripts": true
     }
   }
 }
