@@ -1,0 +1,11 @@
+{
+  "name": "Trabeja",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://trabeja.com/en/site/conditions#prestacion-servicios-profesionales",
+      "select": [
+        ".full"
+      ]
+    }
+  }
+}
