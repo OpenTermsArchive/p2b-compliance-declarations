@@ -1,0 +1,8 @@
+{
+  "name": "Videdressing",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://di8gcicl2eawz.cloudfront.net/1535752807/fr_FR/pdf/terms.pdf"
+    }
+  }
+}
