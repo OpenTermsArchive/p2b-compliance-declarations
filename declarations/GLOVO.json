@@ -1,0 +1,8 @@
+{
+  "name": "GLOVO",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://business.glovoapp.com/docs/Terms and conditions.pdf"
+    }
+  }
+}
