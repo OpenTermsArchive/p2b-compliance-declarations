@@ -1,0 +1,11 @@
+{
+  "name": "Hotels.com ",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.vrbo.com/es-es/legal/terminos-condiciones-propietarios",
+      "select": [
+        "#gatsby-focus-wrapper"
+      ]
+    }
+  }
+}
