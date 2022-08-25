@@ -2,9 +2,9 @@
   "name": "Shopify",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.shopify.com/legal/terms",
+      "fetch": "https://www.shopify.com/legal/eu-terms",
       "select": [
-        "#Main"
+        ".background-light"
       ]
     }
   }
