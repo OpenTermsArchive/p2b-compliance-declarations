@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.jaspravim.sk/obchodne-podmienky",
       "select": [
-        ".col-lg-9"
+        ".content-section"
       ]
     }
   }
