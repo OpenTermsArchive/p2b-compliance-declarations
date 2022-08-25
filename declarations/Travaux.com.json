@@ -1,0 +1,8 @@
+{
+  "name": "Travaux.com",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.travaux.com/assets/fr_FR/CGV-Travaux-Instapro-January-2022-VF.pdf"
+    }
+  }
+}
