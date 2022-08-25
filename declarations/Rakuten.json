@@ -7,7 +7,7 @@
         "#main-content"
       ],
       "remove": [
-        "header .article-meta",
+        "#main-content header .article-meta",
         "#main-content footer",
         ".article-relatives"
       ],
