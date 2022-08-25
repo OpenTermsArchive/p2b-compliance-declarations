@@ -1,0 +1,15 @@
+{
+  "name": "OTOMOTO",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://pomoc.otomoto.pl/hc/pl/articles/360005056953",
+      "select": [
+        "#main-content"
+      ],
+      "remove": [
+        ".article-subscribe"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
