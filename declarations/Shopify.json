@@ -1,0 +1,11 @@
+{
+  "name": "Shopify",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.shopify.com/legal/terms",
+      "select": [
+        ".background-light"
+      ]
+    }
+  }
+}
