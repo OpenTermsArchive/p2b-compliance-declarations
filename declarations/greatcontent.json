@@ -1,0 +1,11 @@
+{
+  "name": "greatcontent",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://greatcontent.com/toc-linguists/",
+      "select": [
+        "#section-5-263 > .ct-section-inner-wrap"
+      ]
+    }
+  }
+}
