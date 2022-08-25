@@ -1,0 +1,17 @@
+{
+  "name": "Rakuten",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://fr.shopping.rakuten.com/newhelp/cpvp/",
+      "select": [
+        "#main-content"
+      ],
+      "remove": [
+        "#main-content header .article-meta",
+        "#main-content footer",
+        ".article-relatives"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
