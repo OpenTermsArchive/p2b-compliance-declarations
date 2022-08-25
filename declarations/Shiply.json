@@ -1,0 +1,11 @@
+{
+  "name": "Shiply",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.shiply.com/es/terms",
+      "select": [
+        ".page-terms"
+      ]
+    }
+  }
+}
