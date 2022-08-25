@@ -4,7 +4,10 @@
     "Terms of Service": {
       "fetch": "https://info.tradera.com/en/anvandaravtal-eng/",
       "select": [
-        ".gt-row-8 .gt-column-inner"
+        ".main-container"
+      ],
+      "remove": [
+        ".main-container footer"
       ]
     }
   }
