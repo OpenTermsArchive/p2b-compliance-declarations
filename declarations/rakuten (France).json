@@ -1,0 +1,12 @@
+{
+  "name": "rakuten (France)",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://fr.shopping.rakuten.com/newhelp/cpvp/",
+      "select": [
+        ".container"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
