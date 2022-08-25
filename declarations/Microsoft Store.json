@@ -3,6 +3,9 @@
   "documents": {
     "Developer Terms": {
       "fetch": "https://go.microsoft.com/fwlink/?linkid=528905&ext=.pdf"
+    },
+    "Commercial Terms": {
+      "fetch": "https://go.microsoft.com/fwlink/?linkid=528905"
     }
   }
 }
