@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://trainme.co/coach-sportif/3-conditions-generales-utilisation",
       "select": [
-        ".rte"
+        ".pagecontainer"
       ]
     }
   }
