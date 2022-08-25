@@ -4,8 +4,7 @@
     "Commercial Terms": {
       "fetch": "https://www.skyscanner.net/media/ltdterms",
       "select": [
-        ".single-post__title",
-        ".entry-content"
+        ".content"
       ]
     }
   }
