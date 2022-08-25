@@ -1,0 +1,12 @@
+{
+  "name": "Galeries Lafayette",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.galerieslafayette.com/service/conditions-generals",
+      "select": [
+        ".large-10"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
