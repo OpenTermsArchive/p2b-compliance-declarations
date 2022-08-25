@@ -1,0 +1,11 @@
+{
+  "name": "SCROUGH SA",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://merchants.skroutz.gr/merchants/terms/marketplace/20220328",
+      "select": [
+        "#terms-card"
+      ]
+    }
+  }
+}
