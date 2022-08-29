@@ -1,0 +1,11 @@
+{
+  "name": "Places on Maps",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://register.apple.com/tou/PoM/latest/en",
+      "select": [
+        "body"
+      ]
+    }
+  }
+}
