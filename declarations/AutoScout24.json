@@ -1,0 +1,11 @@
+{
+  "name": "AutoScout24",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.autoscout24.es/empresa/privacidad/",
+      "select": [
+        ".stp-content"
+      ]
+    }
+  }
+}
