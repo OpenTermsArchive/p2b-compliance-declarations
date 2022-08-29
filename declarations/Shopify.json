@@ -6,6 +6,12 @@
       "select": [
         "#Main"
       ]
+    },
+    "Commercial Terms": {
+      "fetch": "https://www.shopify.com/legal/eu-terms",
+      "select": [
+        "#Main"
+      ]
     }
   }
 }
