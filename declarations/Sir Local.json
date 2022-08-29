@@ -4,7 +4,7 @@
     "Commercial Terms": {
       "fetch": "https://www.sirlocal.pl/regulamin_fachowcy/",
       "select": [
-        ".jak-to-dziala > .row"
+        ".regulamin"
       ]
     }
   }
