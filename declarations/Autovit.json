@@ -1,0 +1,25 @@
+{
+  "name": "Autovit",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://ajutor.autovit.ro/hc/ro/articles/360004045053-Regulament-persoane-fizice",
+      "select": [
+        "#main-content"
+      ],
+      "remove": [
+        "#\\39 e4d95df-297e-470d-92ce-3a9d912cedd8",
+        ".article-footer",
+        "footer:nth-child(3)",
+        ".article-relatives",
+        ".categories:nth-child(4) > .blocks-list",
+        ".categories:nth-child(5) > .blocks-list",
+        ".gray:nth-child(1)",
+        ".gray:nth-child(2)",
+        ".gray:nth-child(3)",
+        ".gray:nth-child(4)",
+        ".gray:nth-child(5)"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
