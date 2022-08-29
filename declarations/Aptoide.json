@@ -1,0 +1,11 @@
+{
+  "name": "Aptoide",
+  "documents": {
+    "Developer Terms": {
+      "fetch": "https://en.aptoide.com/company/legal?section=distribution",
+      "select": [
+        ".legal__PageSection-sc-6qxq01-1"
+      ]
+    }
+  }
+}
