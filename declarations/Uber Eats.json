@@ -1,0 +1,12 @@
+{
+  "name": "Uber Eats",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.uber.com/legal/en/document/?name=uber-eats-merchant-terms-and-conditions&country=republic-of-ireland&lang=en",
+      "select": [
+        "#legal-info"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
