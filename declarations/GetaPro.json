@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://getapro.lv/home/termsandconditions",
       "select": [
-        ".inner-top-sm:nth-child(1)"
+        "#terms"
       ]
     }
   }
