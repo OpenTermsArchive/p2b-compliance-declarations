@@ -1,0 +1,26 @@
+{
+  "name": "Autovit",
+  "documents": {
+    "Ad Publishing Policy": {
+      "fetch": "https://ajutor.autovit.ro/hc/ro/articles/4411893922706-Anexa-Nr-2-Servicii-de-Promovare",
+      "select": [
+        "#main-content"
+      ],
+      "remove": [
+        "#\\37 84a198f-b025-4d53-a243-49ca3201b7f3",
+        ".article-footer",
+        ".article-votes",
+        "footer:nth-child(3)",
+        ".categories:nth-child(4) > .blocks-list",
+        ".categories:nth-child(5) > .blocks-list",
+        ".gray:nth-child(5)",
+        ".gray:nth-child(4)",
+        ".gray:nth-child(3)",
+        ".gray:nth-child(2)",
+        ".gray:nth-child(1)",
+        ".related-articles"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
