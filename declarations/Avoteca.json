@@ -1,0 +1,8 @@
+{
+  "name": "Avoteca",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://avoteca.com/documents/ro/privacy-policy.pdf"
+    }
+  }
+}
