@@ -1,0 +1,11 @@
+{
+  "name": "Treatwell",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.treatwell.be/en/info/supplier-terms-and-conditions/",
+      "select": [
+        ".info-content"
+      ]
+    }
+  }
+}
