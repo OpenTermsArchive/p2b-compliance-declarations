@@ -4,7 +4,7 @@
     "Marketplace Sellers Conditions": {
       "fetch": "https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10001020&identity=1",
       "select": [
-        ".w-0"
+        "[class^=\"index__articleLayout\"]"
       ],
       "executeClientScripts": true
     }
