@@ -1,0 +1,8 @@
+{
+  "name": "idealo",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://business.idealo.com/de/assets/documents/idealo_terms_of_service_de_2016.pdf"
+    }
+  }
+}
