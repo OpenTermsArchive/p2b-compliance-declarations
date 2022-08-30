@@ -4,7 +4,7 @@
     "Marketplace Sellers Conditions": {
       "fetch": "https://tweakers.net/info/algemene-voorwaarden/v-a/",
       "select": [
-        ".centeredContent"
+        ".articleColumn"
       ],
       "executeClientScripts": true
     }
