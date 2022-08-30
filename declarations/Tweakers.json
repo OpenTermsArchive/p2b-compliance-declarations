@@ -2,7 +2,7 @@
   "name": "Tweakers",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://tweakers.net/info/general-conditions/",
+      "fetch": "https://tweakers.net/info/algemene-voorwaarden/",
       "select": [
         ".articleColumn"
       ],
