@@ -1,0 +1,19 @@
+{
+  "name": "Tweakers",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://tweakers.net/info/algemene-voorwaarden/",
+      "select": [
+        ".articleColumn"
+      ],
+      "executeClientScripts": true
+    },
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://tweakers.net/info/algemene-voorwaarden/v-a/",
+      "select": [
+        ".articleColumn"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}

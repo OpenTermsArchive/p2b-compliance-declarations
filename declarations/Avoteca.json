@@ -1,0 +1,11 @@
+{
+  "name": "Avoteca",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://avoteca.com/documents/ro/terms-conditions.pdf"
+    },
+    "Privacy Policy": {
+      "fetch": "https://avoteca.com/documents/ro/privacy-policy.pdf"
+    }
+  }
+}
