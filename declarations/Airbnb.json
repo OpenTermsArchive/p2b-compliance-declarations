@@ -1,0 +1,12 @@
+{
+  "name": "Airbnb",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.airbnb.com/help/article/2870/additional-terms-for-experience-hosts",
+      "select": [
+        "#site-content"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
