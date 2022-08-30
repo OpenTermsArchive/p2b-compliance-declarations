@@ -1,0 +1,8 @@
+{
+  "name": "Lieferando.de",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://takeaway-restaurant-portal.s3.amazonaws.com/partnersTerms/de/TC_Restaurants_DE_ENG.pdf"
+    }
+  }
+}
