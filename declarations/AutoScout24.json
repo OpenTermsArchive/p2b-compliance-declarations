@@ -1,6 +1,12 @@
 {
   "name": "AutoScout24",
   "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.autoscout24.es/empresa/agb-profesionales/",
+      "select": [
+        ".stp-content"
+      ]
+    },
     "Privacy Policy": {
       "fetch": "https://www.autoscout24.es/empresa/privacidad/",
       "select": [
