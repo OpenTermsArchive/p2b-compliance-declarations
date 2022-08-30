@@ -1,0 +1,8 @@
+{
+  "name": "ImmoScout24",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.immobilienscout24.de/content/dam/is24/documents/agb/20211215-b2b-agb.pdf"
+    }
+  }
+}
