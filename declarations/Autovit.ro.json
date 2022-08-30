@@ -4,7 +4,7 @@
     "Ad Publishing Policy": {
       "fetch": "https://ajutor.autovit.ro/hc/ro/articles/4411893922706-Anexa-Nr-2-Servicii-de-Promovare",
       "select": [
-        ".article-body"
+        ".article-content"
       ],
       "executeClientScripts": true
     },
