@@ -1,0 +1,11 @@
+{
+  "name": "Crunchbase",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://about.crunchbase.com/terms-of-service/",
+      "select": [
+        "main.c-page-wrapper"
+      ]
+    }
+  }
+}

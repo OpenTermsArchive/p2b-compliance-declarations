@@ -1,0 +1,11 @@
+{
+  "name": "pro.packlink.es",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://pro.packlink.es/terminos-y-condiciones/",
+      "select": [
+        "#legales"
+      ]
+    }
+  }
+}

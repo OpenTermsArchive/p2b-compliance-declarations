@@ -1,0 +1,8 @@
+{
+  "name": "Thuisbezorgd",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "http://takeaway-restaurant-portal.s3.amazonaws.com/partnersTerms/nl/TC_Restaurants_NL_ENG.pdf"
+    }
+  }
+}

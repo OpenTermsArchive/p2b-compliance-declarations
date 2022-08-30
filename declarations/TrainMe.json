@@ -1,0 +1,11 @@
+{
+  "name": "TrainMe",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://trainme.co/coach-sportif/3-conditions-generales-utilisation",
+      "select": [
+        ".pagecontainer"
+      ]
+    }
+  }
+}

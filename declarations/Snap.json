@@ -1,0 +1,12 @@
+{
+  "name": "Snap",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://snap.com/en-US/terms/business-services",
+      "select": [
+        "[class^=\"AppBodyContainer\"]"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}

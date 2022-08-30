@@ -1,0 +1,11 @@
+{
+  "name": "Skyscanner",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.skyscanner.net/media/ltdterms",
+      "select": [
+        ".content"
+      ]
+    }
+  }
+}
