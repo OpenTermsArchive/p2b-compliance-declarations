@@ -1,0 +1,12 @@
+{
+  "name": "Tweakers",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://tweakers.net/info/algemene-voorwaarden/v-a/",
+      "select": [
+        ".articleColumn"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
