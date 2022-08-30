@@ -4,7 +4,14 @@
     "Terms of Service": {
       "fetch": "https://trabeja.com/en/site/conditions#prestacion-servicios-profesionales",
       "select": [
-        ".full"
+        {
+          "startAfter": "body > header",
+          "endBefore": "body > footer"
+        }
+      ],
+      "remove": [
+        ".breadcrumb",
+        "h1 + ol"
       ]
     }
   }
