@@ -1,0 +1,14 @@
+{
+  "name": "greatcontent",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://greatcontent.com/toc-linguists/",
+      "select": [
+        {
+          "startAfter": "body > header",
+          "endBefore": "body > footer"
+        }
+      ]
+    }
+  }
+}
