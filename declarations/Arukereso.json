@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.arukereso.hu/static/general_terms_and_conditions.html",
       "select": [
-        "#static-page > .col-lg-12"
+        "#static-page"
       ]
     }
   }
