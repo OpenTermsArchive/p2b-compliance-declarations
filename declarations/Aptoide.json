@@ -1,0 +1,11 @@
+{
+  "name": "Aptoide",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://en.aptoide.com/company/legal?section=distribution",
+      "select": [
+        "[class^=\"legal__PageSection\"]"
+      ]
+    }
+  }
+}
