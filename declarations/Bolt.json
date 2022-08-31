@@ -1,0 +1,16 @@
+{
+  "name": "Bolt",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://bolt.eu/en/legal/ie/privacy-for-drivers/",
+      "select": [
+        "#gatsby-focus-wrapper > div"
+      ],
+      "remove": [
+        ".tfhr10n",
+        ".xpq40037",
+        "#footer"
+      ]
+    }
+  }
+}
