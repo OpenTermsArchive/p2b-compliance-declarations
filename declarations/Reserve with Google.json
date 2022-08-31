@@ -1,0 +1,11 @@
+{
+  "name": "Reserve with Google",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.google.com/maps/reserve/terms",
+      "select": [
+        "body > c-wiz > div > div:nth-child(1)"
+      ]
+    }
+  }
+}
