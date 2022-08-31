@@ -1,0 +1,11 @@
+{
+  "name": "Local Services",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.google.com/ads/localservices/TC-IE-2020-09.html",
+      "select": [
+        "body"
+      ]
+    }
+  }
+}
