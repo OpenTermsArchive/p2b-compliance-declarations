@@ -5,6 +5,9 @@
       "fetch": "https://www.bazaraki.com/about/rules/",
       "select": [
         ".static-content-left"
+      ],
+      "remove": [
+        "h1+ol"
       ]
     }
   }
