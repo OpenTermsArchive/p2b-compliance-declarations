@@ -1,0 +1,8 @@
+{
+  "name": "Bazar.sk",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://s.aimg.sk/unitedclassifieds/css/data/bazar.pdf"
+    }
+  }
+}
