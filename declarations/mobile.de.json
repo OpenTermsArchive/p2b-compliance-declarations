@@ -1,0 +1,12 @@
+{
+  "name": "mobile.de",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.mobile.de/service/agbProfessional",
+      "select": [
+        "#agb-box"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
