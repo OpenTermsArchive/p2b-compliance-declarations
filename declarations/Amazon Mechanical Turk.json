@@ -15,6 +15,15 @@
       "select": [
         ".help-content"
       ]
+    },
+    "Terms of Service": {
+      "fetch": "https://www.mturk.com/participation-agreement",
+      "select": [
+        ".agreement"
+      ],
+      "remove": [
+        ".agreement a[href=\"/get-started\"]"
+      ]
     }
   }
 }
