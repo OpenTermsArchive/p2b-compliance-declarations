@@ -1,0 +1,14 @@
+{
+  "name": "Skroutz Merchants",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://merchants.skroutz.gr/merchants/terms/marketplace",
+      "select": [
+        ".terms-container"
+      ],
+      "remove": [
+        ".header-container .back"
+      ]
+    }
+  }
+}
