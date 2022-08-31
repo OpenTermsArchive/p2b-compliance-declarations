@@ -1,0 +1,14 @@
+{
+  "name": "Bazaraki",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.bazaraki.com/about/rules/",
+      "select": [
+        ".static-content-left"
+      ],
+      "remove": [
+        "h1+ol"
+      ]
+    }
+  }
+}
