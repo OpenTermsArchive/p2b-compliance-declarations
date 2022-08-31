@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.bonanza.com/site_help/user_agreement",
       "select": [
-        "#site_wrapper"
+        "#main_wrapper"
       ]
     }
   }
