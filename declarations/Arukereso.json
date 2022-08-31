@@ -6,6 +6,12 @@
       "select": [
         "#static-page"
       ]
+    },
+    "Commercial Terms": {
+      "fetch": "https://www.arukereso.hu/static/productads_uzleti_feltetelek.html",
+      "select": [
+        "#static-page > .col-lg-12"
+      ]
     }
   }
 }
