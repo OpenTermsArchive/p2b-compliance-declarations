@@ -1,0 +1,12 @@
+{
+  "name": "OXL",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://help.olx.pt/hc/pt/articles/204347562",
+      "select": [
+        "#main-content"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
