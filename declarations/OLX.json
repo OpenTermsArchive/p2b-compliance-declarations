@@ -1,0 +1,15 @@
+{
+  "name": "OLX",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://help.olx.pt/hc/pt/articles/204347562",
+      "select": [
+        ".article-body"
+      ],
+      "remove": [
+        ".wysiwyg-text-align-right:nth-child(2)"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
