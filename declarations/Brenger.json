@@ -1,0 +1,12 @@
+{
+  "name": "Brenger",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.brenger.nl/en-nl/general-terms-driver",
+      "select": [
+        ".page-head",
+        ".simple-content"
+      ]
+    }
+  }
+}
