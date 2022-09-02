@@ -7,7 +7,7 @@
         "#static-page"
       ]
     },
-    "Commercial Terms": {
+    "Ad Publishing Policy": {
       "fetch": "https://www.arukereso.hu/static/productads_uzleti_feltetelek.html",
       "select": [
         "#static-page"
