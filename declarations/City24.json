@@ -2,9 +2,9 @@
   "name": "City24",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.city24.ee/info/terms-of-use",
+      "fetch": "https://www.city24.ee/info/joining-city24",
       "select": [
-        ".info-pages__content"
+        ".info-pages__html"
       ],
       "executeClientScripts": true
     }
