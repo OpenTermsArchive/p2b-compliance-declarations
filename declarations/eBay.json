@@ -9,6 +9,20 @@
       "remove": [
         ".anchorTop"
       ]
+    },
+    "Terms of Service": {
+      "fetch": "https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259",
+      "select": [
+        "#mainContent"
+      ],
+      "remove": [
+        ".breadcrumbs",
+        "#catalogue",
+        ".expand_collapse_list > .title",
+        ".article_relate",
+        ".contact_us"
+      ],
+      "executeClientScripts": true
     }
   }
 }
