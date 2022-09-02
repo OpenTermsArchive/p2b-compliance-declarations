@@ -1,0 +1,12 @@
+{
+  "name": "DesignContest",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.designcontest.com/terms-of-services/",
+      "select": [
+        ".terms_of_services"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
