@@ -6,6 +6,12 @@
       "select": [
         "#static-page"
       ]
+    },
+    "Ad Publishing Policy": {
+      "fetch": "https://www.arukereso.hu/static/productads_uzleti_feltetelek.html",
+      "select": [
+        "#static-page"
+      ]
     }
   }
 }
