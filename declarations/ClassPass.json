@@ -1,0 +1,12 @@
+{
+  "name": "ClassPass",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://studios.classpass.com/help/spain_portugal/terms",
+      "select": [
+        ".legal-content-cms__body"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
