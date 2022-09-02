@@ -1,0 +1,11 @@
+{
+  "name": "CustoJusto",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.custojusto.pt/ajuda-rules?section=regra",
+      "select": [
+        "[class^=\"helpPage_pageContent\"]"
+      ]
+    }
+  }
+}
