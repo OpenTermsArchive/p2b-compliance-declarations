@@ -20,6 +20,15 @@
         ".breadcrumb",
         ".avatar__image"
       ]
+    },
+    "Commercial Terms": {
+      "fetch": "https://help.deliveroo.com/en/collections/1866797-7-policies-for-restaurants",
+      "select": [
+        ".collection__meta"
+      ],
+      "remove": [
+        ".collection__meta .avatar__info > div"
+      ]
     }
   }
 }
