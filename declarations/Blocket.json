@@ -1,0 +1,12 @@
+{
+  "name": "Blocket",
+  "documents": {
+    "Ad Publishing Policy": {
+      "fetch": "https://www.blocket.se/om/villkor/anvandarvillkor-for-foretag/annonsera-pa-blocket",
+      "select": [
+        ".template-landing"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
