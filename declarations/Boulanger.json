@@ -1,0 +1,21 @@
+{
+  "name": "Boulanger",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.boulanger.com/evenement/cgv#conditions-generales-vente-partenaires",
+      "select": [
+        "#cgv-hub"
+      ],
+      "remove": [
+        "a[href=\"javascript:void(0);\"]",
+        ".cgv-dashboard .btn-download",
+        ".cgv-dashboard .btn-print",
+        "#cgv-menu-template",
+        ".nav",
+        ".cgv-dashboard .bloc-right .more",
+        ".cgv-dashboard .bloc-right .less"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
