@@ -1,0 +1,12 @@
+{
+  "name": "City24",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.city24.ee/info/joining-city24",
+      "select": [
+        ".info-pages__html"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
