@@ -1,0 +1,8 @@
+{
+  "name": "Chabber",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.chabber.com/TermsAndConditions.pdf"
+    }
+  }
+}
