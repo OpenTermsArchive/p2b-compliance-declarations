@@ -7,6 +7,13 @@
         ".info-pages__html"
       ],
       "executeClientScripts": true
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.city24.ee/info/personal-data-processing",
+      "select": [
+        ".info-pages__html"
+      ],
+      "executeClientScripts": true
     }
   }
 }
