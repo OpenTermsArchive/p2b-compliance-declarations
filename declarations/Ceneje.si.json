@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.ceneje.si/pogoji-uporabe",
       "select": [
-        ".centered:nth-child(4)"
+        ".ceneje-main"
       ],
       "executeClientScripts": true
     }
