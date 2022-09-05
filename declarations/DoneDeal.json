@@ -1,0 +1,12 @@
+{
+  "name": "DoneDeal",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://hello.donedeal.ie/hc/en-us/articles/201251761-Terms-Conditions-of-Use-of-DoneDeal",
+      "select": [
+        "main[role=\"main\"]"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
