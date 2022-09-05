@@ -4,7 +4,7 @@
     "Developer Terms": {
       "fetch": "https://play.google.com/intl/en_us/about/developer-distribution-agreement.html",
       "select": [
-        ".play-contained:nth-child(2)"
+        "#play-header + .play-contained"
       ]
     }
   }
