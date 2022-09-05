@@ -13,14 +13,10 @@
     "Terms of Service": {
       "fetch": "https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259",
       "select": [
-        "#mainContent"
+        ".article_body"
       ],
       "remove": [
-        ".breadcrumbs",
-        "#catalogue",
-        ".expand_collapse_list > .title",
-        ".article_relate",
-        ".contact_us"
+        ".expand_collapse_list:last-child"
       ],
       "executeClientScripts": true
     }
