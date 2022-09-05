@@ -1,0 +1,11 @@
+{
+  "name": "CustoJusto",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.custojusto.pt/ajuda-rules",
+      "select": [
+        "[class^=\"helpPage_pageContent\"]"
+      ]
+    }
+  }
+}
