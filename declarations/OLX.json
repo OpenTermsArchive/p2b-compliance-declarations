@@ -4,10 +4,10 @@
     "Terms of Service": {
       "fetch": "https://help.olx.pt/hc/pt/articles/204347562",
       "select": [
-        ".article-body"
+        ".article-info"
       ],
       "remove": [
-        ".wysiwyg-text-align-right:nth-child(2)"
+        "img[alt=\"olx_logo.png\"]"
       ],
       "executeClientScripts": true
     }
