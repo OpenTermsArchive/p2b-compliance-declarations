@@ -1,0 +1,15 @@
+{
+  "name": "Catawiki",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.catawiki.com/en/help/seller-terms/seller-terms",
+      "select": [
+        ".c-kb-article"
+      ],
+      "remove": [
+        ".c-kb-article-feedback",
+        ".c-kb-article__still-need-help-button"
+      ]
+    }
+  }
+}
