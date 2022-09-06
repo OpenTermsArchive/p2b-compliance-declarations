@@ -1,0 +1,11 @@
+{
+  "name": "BudgetAir.fr",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en",
+      "select": [
+        "header + .container"
+      ]
+    }
+  }
+}
