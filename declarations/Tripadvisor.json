@@ -9,6 +9,13 @@
       "remove": [
         "#wd_printable_content .wd_toolbar"
       ]
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.tripadvisor.com/pages/serviceEN.html",
+      "select": [
+        ".mainContent"
+      ],
+      "executeClientScripts": true
     }
   }
 }
