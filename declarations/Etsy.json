@@ -1,0 +1,11 @@
+{
+  "name": "Etsy",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.etsy.com/legal/sellers/",
+      "select": [
+        ".bg-white"
+      ]
+    }
+  }
+}
