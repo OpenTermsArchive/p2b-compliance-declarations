@@ -1,0 +1,11 @@
+{
+  "name": "Spotify",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.spotify.com/us/legal/spotify-for-podcasters-platform-terms/",
+      "select": [
+        "#content-main"
+      ]
+    }
+  }
+}
