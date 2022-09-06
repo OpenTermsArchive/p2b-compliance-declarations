@@ -1,0 +1,12 @@
+{
+  "name": "Auto Europe",
+  "documents": {
+    "Affiliate Agreement": {
+      "fetch": "https://www.autoeurope.com/affiliateform/",
+      "filter": [
+        "moveModalContentFromAttributeToBody"
+      ],
+      "select": "#open-terms-archive-content"
+    }
+  }
+}
