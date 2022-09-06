@@ -1,0 +1,14 @@
+{
+  "name": "Etsy",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.etsy.com/legal/sellers/",
+      "select": [
+        {
+          "startAfter": "#category-dropdown",
+          "endBefore": "#locale_overlay_container"
+        }
+      ]
+    }
+  }
+}
