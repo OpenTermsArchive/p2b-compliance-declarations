@@ -17,6 +17,15 @@
         "*[hidden]"
       ],
       "executeClientScripts": true
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://sellercentral-europe.amazon.com/help/hub/reference/external/GHEZQUQYZSPGXHG3?ref=efph_GHEZQUQYZSPGXHG3_cont_G521&locale=en-GB",
+      "select": [
+        "#full-help-page"
+      ],
+      "remove": [
+        "#full-help-page > div:nth-child(1)"
+      ]
     }
   }
 }
