@@ -28,6 +28,17 @@
         ".hh-scroll-to-top-box"
       ],
       "executeClientScripts": true
+    },
+    "Complaints Policy": {
+      "fetch": "https://sellercentral-europe.amazon.com/help/hub/reference/external/G67ETGRC3ZJQBTVT?ref=efph_G67ETGRC3ZJQBTVT_cont_521&locale=en-GB",
+      "select": [
+        "#full-help-page"
+      ],
+      "remove": [
+        "*[hidden]",
+        ".hh-scroll-to-top-box"
+      ],
+      "executeClientScripts": true
     }
   }
 }
