@@ -1,7 +1,7 @@
 {
-  "name": "Spotify for Podcasters",
+  "name": "Spotify",
   "documents": {
-    "Commercial Terms": {
+    "Marketplace Sellers Conditions": {
       "fetch": "https://www.spotify.com/us/legal/spotify-for-podcasters-platform-terms/",
       "select": [
         "#content-main"
