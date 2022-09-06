@@ -1,0 +1,16 @@
+{
+  "name": "Ebookers",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.vrbo.com/es-es/legal/terminos-condiciones-propietarios",
+      "select": [
+        ".ContentArea__Main"
+      ],
+      "remove": [
+        "#breadcrumb",
+        ".btn-default > .SVGIcon",
+        ".sr-only"
+      ]
+    }
+  }
+}
