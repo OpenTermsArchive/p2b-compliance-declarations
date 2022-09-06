@@ -1,0 +1,16 @@
+{
+  "name": "Hood.de",
+  "documents": {
+    "Ranking Parameters Description": {
+      "fetch": "https://www.hood.de/tips/1472/ranking-optimieren.htm",
+      "select": [
+        "#printDiv"
+      ],
+      "remove": [
+        "#sidebar",
+        ".iShopTeaser + .iSection",
+        ".iShopTeaser"
+      ]
+    }
+  }
+}
