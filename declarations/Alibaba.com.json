@@ -1,0 +1,16 @@
+{
+  "name": "Alibaba.com",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2042&cId=1303#/rule/detail?ruleId=2042&cId=1303",
+      "select": [
+        ".rule-detail-text"
+      ],
+      "remove": [
+        ".evaluate-btn",
+        ".evaluate-title",
+        ".rule-text-indicate"
+      ]
+    }
+  }
+}
