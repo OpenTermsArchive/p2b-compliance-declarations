@@ -20,6 +20,15 @@
         ".breadcrumb",
         ".avatar__image"
       ]
+    },
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://help.deliveroo.com/en/collections/1866797-7-policies-for-restaurants",
+      "select": [
+        ".collection__meta"
+      ],
+      "remove": [
+        ".avatar"
+      ]
     }
   }
 }
