@@ -1,5 +1,5 @@
 {
-  "name": "Expedia",
+  "name": "Expedia Partner Central",
   "documents": {
     "Commercial Terms": {
       "fetch": "https://apps.expediapartnercentral.com/static/lodging/TermsOfUse.html",
