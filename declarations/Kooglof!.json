@@ -1,0 +1,11 @@
+{
+  "name": "Kooglof!",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://kooglof.coopcycle.org/fr/terms",
+      "select": [
+        ".content"
+      ]
+    }
+  }
+}
