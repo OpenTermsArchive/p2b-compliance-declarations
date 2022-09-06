@@ -4,7 +4,10 @@
     "Marketplace Sellers Conditions": {
       "fetch": "https://www.etsy.com/legal/sellers/",
       "select": [
-        ".bg-white"
+        {
+          "startAfter": "#category-dropdown",
+          "endBefore": "#locale_overlay_container"
+        }
       ]
     }
   }
