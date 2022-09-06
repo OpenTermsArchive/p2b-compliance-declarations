@@ -2,7 +2,7 @@
   "name": "Expedia Partner Central",
   "documents": {
     "Commercial Terms": {
-      "fetch": "https://apps.expediapartnercentral.com/static/lodging/TermsOfUse.html",
+      "fetch": "https://welcome.expediagroup.com/legal/European_supply_agreements.pdf",
       "select": [
         ".fds-main-content"
       ],
