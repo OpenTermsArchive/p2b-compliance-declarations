@@ -1,0 +1,11 @@
+{
+  "name": "Flighttix",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://admin.booking.com/hotelreg/terms-and-conditions.html?lang=en",
+      "select": [
+        "header + .container"
+      ]
+    }
+  }
+}
