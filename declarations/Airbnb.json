@@ -11,15 +11,10 @@
     "Ranking Parameters Description": {
       "fetch": "https://www.airbnb.com/help/article/39/how-search-results-work",
       "select": [
-        ".c1dcbdcb > section"
-      ],
-      "remove": [
-        ".caoewxn",
-        ".c1okfifi",
-        ".l1pvymst:nth-child(1)",
-        ".t15kpzrz",
-        ".l1pvymst:nth-child(2) > ._131n1yh",
-        ".l1pvymst:nth-child(3)"
+        {
+          "startBefore": "#site-content h1",
+          "endBefore": "[data-testid=\"article-feedback-widget\"]"
+        }
       ],
       "executeClientScripts": true
     }
