@@ -1,0 +1,15 @@
+{
+  "name": "Qwant",
+  "documents": {
+    "Ranking Parameters Description": {
+      "fetch": "https://about.qwant.com/en/legal/classement/",
+      "select": [
+        "#content"
+      ],
+      "remove": [
+        "#content .elementor-widget-nav-menu",
+        "#content .elementor-menu-toggle"
+      ]
+    }
+  }
+}
