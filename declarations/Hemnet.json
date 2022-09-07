@@ -3,6 +3,13 @@
   "documents": {
     "Ad Publishing Policy": {
       "fetch": "https://assets.hemnet.se/assets/dokument/hemnet_avtalsvillkor_for_annonstjanster_20211115.pdf"
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.hemnet.se/annonsera-bostad",
+      "select": [
+        ".Packages_packages__Kb4Ev",
+        ".ListingMarketing_container__oUruO"
+      ]
     }
   }
 }
