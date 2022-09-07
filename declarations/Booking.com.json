@@ -2,9 +2,9 @@
   "name": "Booking.com",
   "documents": {
     "Commercial Terms": {
-      "fetch": "https://admin.booking.com/hotelreg/terms-and-conditions.html?lang=en",
+      "fetch": "https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl",
       "select": [
-        "header + .container"
+        ".container:nth-child(2)"
       ]
     }
   }
