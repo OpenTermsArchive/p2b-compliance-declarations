@@ -4,16 +4,13 @@
     "Ranking Parameters Description": {
       "fetch": "https://ecosia.zendesk.com/hc/en-us/articles/204698962-How-do-search-engines-work-",
       "select": [
-        ".article"
+        {
+          "startBefore": ".article",
+          "endBefore": ".article footer"
+        }
       ],
       "remove": [
-        ".article-author",
-        ".article-subscribe",
-        ".article-footer",
-        ".article-votes",
-        ".related-articles",
-        ".comment-overview",
-        ".comment-callout:nth-child(3)"
+        ".article-subscribe"
       ],
       "executeClientScripts": true
     }
