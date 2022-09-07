@@ -4,7 +4,11 @@
     "Ranking Parameters Description": {
       "fetch": "https://about.qwant.com/en/legal/classement/",
       "select": [
-        ".elementor-element-c6d7a2a > .elementor-widget-wrap"
+        "#content"
+      ],
+      "remove": [
+        "#content .elementor-widget-nav-menu",
+        "#content .elementor-menu-toggle"
       ]
     }
   }
