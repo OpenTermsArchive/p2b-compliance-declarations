@@ -1,0 +1,11 @@
+{
+  "name": "Merchant Center",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://merchants.google.com/files/tos/extend/GB/tos.html",
+      "select": [
+        "body"
+      ]
+    }
+  }
+}
