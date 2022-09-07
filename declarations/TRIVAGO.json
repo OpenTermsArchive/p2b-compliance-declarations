@@ -18,6 +18,9 @@
         ".article-return-to-top",
         ".article-footer"
       ],
+      "filter": [
+        "replaceTimeAgoByDate"
+      ],
       "executeClientScripts": true
     }
   }
