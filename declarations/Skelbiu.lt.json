@@ -1,0 +1,11 @@
+{
+  "name": "Skelbiu.lt",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.skelbiu.lt/pagalba.html",
+      "select": [
+        "ul:nth-child(13)"
+      ]
+    }
+  }
+}
