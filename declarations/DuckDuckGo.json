@@ -7,8 +7,7 @@
         ".main"
       ],
       "remove": [
-        "small",
-        ".content:nth-child(1)"
+        ".footer"
       ]
     }
   }
