@@ -7,6 +7,16 @@
         "#site-content"
       ],
       "executeClientScripts": true
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.airbnb.com/help/article/39/how-search-results-work",
+      "select": [
+        {
+          "startBefore": "#site-content h1",
+          "endBefore": "[data-testid=\"article-feedback-widget\"]"
+        }
+      ],
+      "executeClientScripts": true
     }
   }
 }
