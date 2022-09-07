@@ -12,6 +12,9 @@
       "remove": [
         ".article-subscribe"
       ],
+      "filter": [
+        "replaceTimeAgoByDate"
+      ],
       "executeClientScripts": true
     }
   }
