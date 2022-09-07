@@ -3,6 +3,16 @@
   "documents": {
     "Commercial Terms": {
       "fetch": "https://takeaway-restaurant-portal.s3.amazonaws.com/partnersTerms/de/TC_Restaurants_DE_ENG.pdf"
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.lieferando.de/en/customerservice/article/how-is-the-restaurant-order-determined",
+      "select": [
+        {
+          "startBefore": "[data-qa=\"article-content\"]",
+          "endBefore": "[data-qa=\"article-content-vote-section\"]"
+        }
+      ],
+      "executeClientScripts": true
     }
   }
 }
