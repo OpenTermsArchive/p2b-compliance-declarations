@@ -1,0 +1,14 @@
+{
+  "name": "DuckDuckGo",
+  "documents": {
+    "Ranking Parameters Description": {
+      "fetch": "https://help.duckduckgo.com/duckduckgo-help-pages/results/sources/",
+      "select": [
+        ".main"
+      ],
+      "remove": [
+        ".footer"
+      ]
+    }
+  }
+}
