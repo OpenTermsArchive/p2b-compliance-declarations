@@ -12,6 +12,12 @@
       "remove": [
         "[role=\"navigation\"]"
       ]
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.google.com/search/howsearchworks/algorithms/",
+      "select": [
+        ".secondary-hero"
+      ]
     }
   }
 }
