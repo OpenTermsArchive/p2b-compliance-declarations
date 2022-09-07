@@ -16,7 +16,15 @@
     "Ranking Parameters Description": {
       "fetch": "https://www.google.com/search/howsearchworks/algorithms/",
       "select": [
-        ".secondary-hero"
+        ".secondary-hero",
+        ".two-column-text__grid",
+        ".single-column-text",
+        ".two-column-article:nth-child(2) > .two-column-article__grid",
+        ".jump-nav",
+        "#relevance .two-column-article__grid",
+        "#quality .two-column-article__grid",
+        "#usability .two-column-article__grid",
+        "#context .two-column-article__grid"
       ]
     }
   }
