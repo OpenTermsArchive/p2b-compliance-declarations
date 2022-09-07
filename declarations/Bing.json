@@ -7,7 +7,7 @@
         "#supArticleContent"
       ],
       "remove": [
-        ".ocpSection:nth-child(6)",
+        "[aria-label=\"RELATED TOPICS\"]",
         ".ocArticleFooterShareLinksWrapper",
         ".ocArticleFooterElementContainer"
       ]
