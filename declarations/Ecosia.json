@@ -1,0 +1,22 @@
+{
+  "name": "Ecosia",
+  "documents": {
+    "Ranking Parameters Description": {
+      "fetch": "https://ecosia.zendesk.com/hc/en-us/articles/204698962-How-do-search-engines-work-",
+      "select": [
+        {
+          "startBefore": ".article",
+          "endBefore": ".article footer"
+        }
+      ],
+      "remove": [
+        ".article-subscribe",
+        ".user-avatar"
+      ],
+      "filter": [
+        "replaceTimeAgoByDate"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
