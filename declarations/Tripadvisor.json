@@ -13,9 +13,8 @@
     "Ranking Parameters Description": {
       "fetch": "https://www.tripadvisor.com/pages/serviceEN.html",
       "select": [
-        ".mainContent"
-      ],
-      "executeClientScripts": true
+        "#BODYCON"
+      ]
     }
   }
 }
