@@ -10,7 +10,8 @@
         }
       ],
       "remove": [
-        ".article-subscribe"
+        ".article-subscribe",
+        ".user-avatar"
       ],
       "filter": [
         "replaceTimeAgoByDate"
