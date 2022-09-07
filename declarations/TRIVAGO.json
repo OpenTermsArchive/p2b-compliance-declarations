@@ -7,6 +7,18 @@
         "main section"
       ],
       "executeClientScripts": true
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://studiosupport.trivago.com/hc/en-us/articles/4402602472593-What-is-the-trivago-Rating-Index-",
+      "select": [
+        "#main-content"
+      ],
+      "remove": [
+        ".related-articles",
+        ".article-return-to-top",
+        ".article-footer"
+      ],
+      "executeClientScripts": true
     }
   }
 }
