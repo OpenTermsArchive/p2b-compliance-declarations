@@ -7,8 +7,7 @@
     "Ranking Parameters Description": {
       "fetch": "https://www.hemnet.se/annonsera-bostad",
       "select": [
-        ".Packages_packages__Kb4Ev",
-        ".ListingMarketing_container__oUruO"
+        "[class^=\"ListingMarketing_container__oUruO\"]"
       ]
     }
   }
