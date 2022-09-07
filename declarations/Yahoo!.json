@@ -9,6 +9,15 @@
       "remove": [
         "li:nth-child(14) > ol > li:nth-child(-n+12):nth-child(n+2)"
       ]
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://help.yahoo.com/kb/search-for-desktop/higher-website-rank-sln2216.html",
+      "select": [
+        "article"
+      ],
+      "remove": [
+        ".atip"
+      ]
     }
   }
 }
