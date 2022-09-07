@@ -24,8 +24,10 @@
         "#full-help-page"
       ],
       "remove": [
-        "#full-help-page > div:nth-child(1)"
-      ]
+        "*[hidden]",
+        ".hh-scroll-to-top-box"
+      ],
+      "executeClientScripts": true
     }
   }
 }
