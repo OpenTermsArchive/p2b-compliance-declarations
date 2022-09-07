@@ -16,6 +16,12 @@
         ".cgv-dashboard .bloc-right .less"
       ],
       "executeClientScripts": true
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.boulanger.com/evenement/marketplace",
+      "select": [
+        ".marketplace__steps > .hub-row:nth-child(7)"
+      ]
     }
   }
 }
