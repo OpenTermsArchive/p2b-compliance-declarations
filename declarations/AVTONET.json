@@ -4,10 +4,10 @@
     "Ranking Parameters Description": {
       "fetch": "https://www.avto.net/help.asp",
       "select": [
-        ".pb-3"
-      ],
-      "remove": [
-        ".col-md-3"
+        {
+          "endBefore": ".Footer",
+          "startAfter": "#accordionExample + div"
+        }
       ],
       "executeClientScripts": true
     }
