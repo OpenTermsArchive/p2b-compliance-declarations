@@ -1,0 +1,14 @@
+{
+  "name": "Skelbiu.lt",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.skelbiu.lt/pagalba.html",
+      "select": [
+        {
+          "startBefore": ".content h2",
+          "endBefore": "#footerAreaSmall"
+        }
+      ]
+    }
+  }
+}
