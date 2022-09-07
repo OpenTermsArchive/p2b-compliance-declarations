@@ -7,10 +7,10 @@
         ".rule-detail-text"
       ],
       "remove": [
-        ".evaluate-btn",
-        ".evaluate-title",
+        ".evalutaion",
         ".rule-text-indicate"
-      ]
+      ],
+      "executeClientScripts": true
     }
   }
 }
