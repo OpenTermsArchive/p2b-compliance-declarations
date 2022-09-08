@@ -5,8 +5,8 @@
       "fetch": "https://www.avto.net/help.asp",
       "select": [
         {
-          "endBefore": ".Footer",
-          "startAfter": "#accordionExample + div"
+          "endBefore": "[id=\"3\"]",
+          "startAfter": "[id=\"2\"]"
         }
       ],
       "executeClientScripts": true
