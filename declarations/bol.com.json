@@ -1,0 +1,18 @@
+{
+  "name": "bol.com",
+  "documents": {
+    "Marketplace Sellers Conditions": {
+      "fetch": "https://www.bol.com/be/nl/m/overeenkomst-verkoper-zakelijk",
+      "select": [
+        {
+          "startBefore": "h2.h1",
+          "endBefore": "footer"
+        }
+      ],
+      "remove": [
+        "[href^=\"javascript:print()\"]"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
