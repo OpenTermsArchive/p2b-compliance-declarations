@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.hungry.dk/handelsbetingelser/",
       "select": [
-        ".sc-1ep3aw0-1"
+        "nav + div"
       ]
     }
   }
