@@ -1,0 +1,11 @@
+{
+  "name": "La Pájara",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://lapajara.coopcycle.org/es/terms",
+      "select": [
+        ".content"
+      ]
+    }
+  }
+}
