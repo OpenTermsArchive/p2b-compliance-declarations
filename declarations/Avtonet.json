@@ -1,0 +1,15 @@
+{
+  "name": "Avtonet",
+  "documents": {
+    "Ranking Parameters Description": {
+      "fetch": "https://www.avto.net/help.asp",
+      "select": [
+        {
+          "endBefore": "[id=\"3\"]",
+          "startAfter": "[id=\"2\"]"
+        }
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
