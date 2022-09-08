@@ -1,0 +1,11 @@
+{
+  "name": "Hungry.dk",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.hungry.dk/handelsbetingelser/",
+      "select": [
+        "nav + div"
+      ]
+    }
+  }
+}
