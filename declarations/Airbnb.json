@@ -17,6 +17,16 @@
         }
       ],
       "executeClientScripts": true
+    },
+    "Terms of Service": {
+      "fetch": "https://www.airbnb.com/help/article/2908/terms-of-service",
+      "select": [
+        {
+          "startBefore": "#EUTOS",
+          "endBefore": "#TOS"
+        }
+      ],
+      "executeClientScripts": true
     }
   }
 }
