@@ -23,7 +23,7 @@
       "select": [
         {
           "startBefore": "#EUTOS",
-          "endBefore": "#TOS"
+          "endAfter": "#site-content"
         }
       ],
       "executeClientScripts": true
