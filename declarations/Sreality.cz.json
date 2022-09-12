@@ -1,0 +1,11 @@
+{
+  "name": "Sreality.cz",
+  "documents": {
+    "Ad Publishing Policy": {
+      "fetch": "https://napoveda.seznam.cz/cz/sreality/pravidla-sreality/smluvni-podminky-sluzby-sreality.cz/smluvni-podminky-pro-vkladani-inzerce-do-databaze-serveru-sreality.ct-platne-13.12.2021",
+      "select": [
+        "#article"
+      ]
+    }
+  }
+}
