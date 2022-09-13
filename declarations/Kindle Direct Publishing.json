@@ -1,0 +1,11 @@
+{
+  "name": "Kindle Direct Publishing",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://kdp-eu.amazon.com/agreement?token=eyJjbGllbnRJZCI6ImtpbmRsZV9kaXJlY3RfcHVibGlzaGluZyIsImRvY3VtZW50SWQiOiJrZHAiLCJjYW5jZWxVcmwiOiJodHRwczovL2tkcC5hbWF6b24uY29tIiwiY2xpZW50TG9jYWxlIjoiTkEiLCJkaXNwbGF5UGFyYW1zIjpudWxsLCJyYXdQYXJhbXMiOm51bGx9%7CeyJtYXRlcmlhbFNlcmlhbCI6MSwiaG1hYyI6Ik9pRzdzcG1UNm5LY25veWhlVG50cDRSQnBKVHAzQ1dwc2g0VXlDMDJKOW89IiwianNvbkhtYWMiOnRydWUsInR5cGUiOiJSRUFEX09OTFkiLCJhY2NlcHQiOmZhbHNlfQ&printView=true&language=en_US",
+      "select": [
+        "#page-container"
+      ]
+    }
+  }
+}
