@@ -1,5 +1,5 @@
 {
-  "name": "Messenger for Business",
+  "name": "Messenger",
   "documents": {
     "Commercial Terms": {
       "fetch": "https://www.facebook.com/legal/commercial_terms",
@@ -8,6 +8,9 @@
           "endBefore": "[role=\"separator\"]",
           "startAfter": "#ssrb_top_nav_end"
         }
+      ],
+      "filter": [
+        "cleanUrls"
       ],
       "executeClientScripts": true
     }
