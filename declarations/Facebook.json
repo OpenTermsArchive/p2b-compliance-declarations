@@ -9,6 +9,9 @@
           "startAfter": "#ssrb_top_nav_end"
         }
       ],
+      "filter": [
+        "cleanUrls"
+      ],
       "executeClientScripts": true
     }
   }
