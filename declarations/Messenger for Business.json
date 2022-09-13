@@ -5,10 +5,11 @@
       "fetch": "https://www.facebook.com/legal/commercial_terms",
       "select": [
         {
-          "endBefore": "#ssrb_root_end",
+          "endBefore": "[role=\"separator\"]",
           "startAfter": "#ssrb_top_nav_end"
         }
-      ]
+      ],
+      "executeClientScripts": true
     }
   }
 }
