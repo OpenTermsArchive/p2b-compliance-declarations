@@ -1,0 +1,14 @@
+{
+  "name": "Facebook",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.facebook.com/legal/commercial_terms",
+      "select": [
+        {
+          "endBefore": "#ssrb_root_end",
+          "startAfter": "#ssrb_top_nav_end"
+        }
+      ]
+    }
+  }
+}
