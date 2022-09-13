@@ -1,0 +1,15 @@
+{
+  "name": "Google Business Profile",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://support.google.com/business/answer/9292476?hl=en",
+      "select": [
+        {
+          "startBefore": ".main-content",
+          "endAfter": ".zippy-last + .zippy-overflow"
+        }
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
