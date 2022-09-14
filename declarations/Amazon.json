@@ -16,7 +16,8 @@
             "#full-help-page"
           ],
           "remove": [
-            "*[hidden]"
+            "*[hidden]",
+            ".hh-scroll-to-top-box"
           ],
           "executeClientScripts": true
         },
