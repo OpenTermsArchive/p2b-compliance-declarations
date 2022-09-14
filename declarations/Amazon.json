@@ -19,6 +19,17 @@
             "*[hidden]"
           ],
           "executeClientScripts": true
+        },
+        {
+          "fetch": "https://sellercentral.amazon.fr/help/hub/reference/external/G5TUVJKZHUVMN77V?locale=en-US",
+          "select": [
+            "#full-help-page"
+          ],
+          "remove": [
+            "*[hidden]",
+            ".hh-scroll-to-top-box"
+          ],
+          "executeClientScripts": true
         }
       ]
     },
