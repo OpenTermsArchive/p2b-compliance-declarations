@@ -1,0 +1,16 @@
+{
+  "name": "Galeries Lafayette",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.galerieslafayette.com/service/conditions-generals",
+      "select": [
+        ".mainContent"
+      ],
+      "remove": [
+        "a[href=\"#top\"]",
+        "sup"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
