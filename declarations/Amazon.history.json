@@ -1,0 +1,15 @@
+{
+  "Marketplace Sellers Conditions": [
+    {
+      "fetch": "https://sellercentral.amazon.fr/help/hub/reference/external/201190440?locale=en-US",
+      "select": [
+        "#full-help-page"
+      ],
+      "remove": [
+        "*[hidden]"
+      ],
+      "executeClientScripts": true,
+      "validUntil": "2022-09-14T14:20:40.623Z"
+    }
+  ]
+}

@@ -9,14 +9,30 @@
       }
     },
     "Marketplace Sellers Conditions": {
-      "fetch": "https://sellercentral.amazon.fr/help/hub/reference/external/201190440?locale=en-US",
-      "select": [
-        "#full-help-page"
-      ],
-      "remove": [
-        "*[hidden]"
-      ],
-      "executeClientScripts": true
+      "combine": [
+        {
+          "fetch": "https://sellercentral.amazon.fr/help/hub/reference/external/201190440?locale=en-US",
+          "select": [
+            "#full-help-page"
+          ],
+          "remove": [
+            "*[hidden]",
+            ".hh-scroll-to-top-box"
+          ],
+          "executeClientScripts": true
+        },
+        {
+          "fetch": "https://sellercentral.amazon.fr/help/hub/reference/external/G5TUVJKZHUVMN77V?locale=en-US",
+          "select": [
+            "#full-help-page"
+          ],
+          "remove": [
+            "*[hidden]",
+            ".hh-scroll-to-top-box"
+          ],
+          "executeClientScripts": true
+        }
+      ]
     },
     "Ranking Parameters Description": {
       "fetch": "https://sellercentral-europe.amazon.com/help/hub/reference/external/GHEZQUQYZSPGXHG3?ref=efph_GHEZQUQYZSPGXHG3_cont_G521&locale=en-GB",
