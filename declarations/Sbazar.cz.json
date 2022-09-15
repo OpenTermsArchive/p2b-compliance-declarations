@@ -1,0 +1,12 @@
+{
+  "name": "Sbazar.cz",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-sbazar-cz/",
+      "select": [
+        "h1",
+        "#article"
+      ]
+    }
+  }
+}
