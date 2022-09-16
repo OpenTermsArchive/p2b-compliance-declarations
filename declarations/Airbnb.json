@@ -6,7 +6,13 @@
       "select": [
         "#site-content"
       ],
-      "executeClientScripts": true
+      "executeClientScripts": true,
+      "remove": [
+        ".l1pvymst:nth-child(1)",
+        ".l1pvymst:nth-child(2)",
+        ".l1pvymst:nth-child(3)",
+        ".t15kpzrz"
+      ]
     },
     "Ranking Parameters Description": {
       "fetch": "https://www.airbnb.com/help/article/39/how-search-results-work",
