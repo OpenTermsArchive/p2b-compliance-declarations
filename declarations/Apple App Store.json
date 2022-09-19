@@ -1,0 +1,11 @@
+{
+  "name": "Apple App Store",
+  "documents": {
+    "Complaints Policy": {
+      "fetch": "https://developer.apple.com/support/p2b",
+      "select": [
+        "#main"
+      ]
+    }
+  }
+}
