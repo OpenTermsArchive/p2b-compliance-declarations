@@ -4,7 +4,10 @@
     "Commercial Terms": {
       "fetch": "https://www.airbnb.com/help/article/2870/additional-terms-for-experience-hosts",
       "select": [
-        "#site-content"
+        {
+          "startBefore": "#site-content",
+          "endBefore": "section > h2"
+        }
       ],
       "executeClientScripts": true
     },
