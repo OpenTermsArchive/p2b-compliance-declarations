@@ -4,9 +4,7 @@
     "Complaints Policy": {
       "fetch": "https://developer.apple.com/support/p2b#current",
       "select": [
-        ".row:nth-child(1) > .large-10",
-        ".tab-content-item:nth-child(1)",
-        ".row:nth-child(3) > .column"
+        "#main"
       ]
     }
   }
