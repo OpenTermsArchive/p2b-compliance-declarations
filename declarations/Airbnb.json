@@ -6,7 +6,7 @@
       "select": [
         {
           "startBefore": "#site-content",
-          "endBefore": "h2"
+          "endBefore": "section > h2"
         }
       ],
       "executeClientScripts": true
