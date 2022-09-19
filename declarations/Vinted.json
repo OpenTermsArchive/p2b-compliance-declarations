@@ -2,9 +2,19 @@
   "name": "Vinted",
   "documents": {
     "Marketplace Sellers Conditions": {
-      "fetch": "https://www.vinted.es/pro-terms-of-use",
-      "select": [
-        ".c-cell__body"
+      "combine": [
+        {
+          "fetch": "https://www.vinted.es/pro-terms-of-use",
+          "select": [
+            ".c-cell__body"
+          ]
+        },
+        {
+          "fetch": "https://www.vinted.es/pro-guide",
+          "select": [
+            "#content"
+          ]
+        }
       ]
     }
   }

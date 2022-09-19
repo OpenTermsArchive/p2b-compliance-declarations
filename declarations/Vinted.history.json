@@ -1,0 +1,9 @@
+{
+  "Marketplace Sellers Conditions": [
+    {
+      "fetch": "https://www.vinted.es/pro-guide",
+      "select": "#content",
+      "validUntil": "2022-09-19T06:56:25.580Z"
+    }
+  ]
+}
