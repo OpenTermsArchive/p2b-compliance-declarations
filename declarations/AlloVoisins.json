@@ -6,6 +6,12 @@
       "select": [
         ".cgu"
       ]
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.allovoisins.com/page/referencement",
+      "select": [
+        ".col-xs-12"
+      ]
     }
   }
 }
