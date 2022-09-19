@@ -9,6 +9,16 @@
           "endBefore": "#locale_overlay_container"
         }
       ]
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.etsy.com/legal/policy/search-advertisement-ranking-disclosures/899478564529",
+      "select": [
+        "#content"
+      ],
+      "remove": [
+        ".sub-page-heading",
+        "#category-dropdown"
+      ]
     }
   }
 }
