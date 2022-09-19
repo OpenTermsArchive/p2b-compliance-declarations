@@ -11,5 +11,19 @@
       "executeClientScripts": true,
       "validUntil": "2022-09-14T14:20:40.623Z"
     }
+  ],
+  "Complaints Policy": [
+    {
+      "fetch": "https://sellercentral.amazon.fr/help/hub/reference/external/G67ETGRC3ZJQBTVT?locale=en-US",
+      "select": [
+        "#full-help-page"
+      ],
+      "remove": [
+        "*[hidden]",
+        ".hh-scroll-to-top-box"
+      ],
+      "executeClientScripts": true,
+      "validUntil": "2022-09-19T14:59:30+04:00"
+    }
   ]
 }
