@@ -46,7 +46,7 @@
       "executeClientScripts": true
     },
     "Complaints Policy": {
-      "fetch": "https://sellercentral-europe.amazon.com/help/hub/reference/external/G67ETGRC3ZJQBTVT?ref=efph_G67ETGRC3ZJQBTVT_cont_521&locale=en-GB",
+      "fetch": "https://sellercentral.amazon.fr/help/hub/reference/external/G67ETGRC3ZJQBTVT?locale=en-US",
       "select": [
         "#full-help-page"
       ],
