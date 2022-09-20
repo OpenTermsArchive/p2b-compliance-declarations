@@ -13,6 +13,19 @@
         "cleanUrls"
       ],
       "executeClientScripts": true
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.facebook.com/legal/commerce_ranking",
+      "select": [
+        {
+          "endBefore": "[role=\"separator\"]",
+          "startAfter": "#ssrb_top_nav_end"
+        }
+      ],
+      "filter": [
+        "cleanUrls"
+      ],
+      "executeClientScripts": true
     }
   }
 }
