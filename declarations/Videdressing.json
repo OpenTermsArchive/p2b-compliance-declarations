@@ -3,6 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://di8gcicl2eawz.cloudfront.net/1535752807/fr_FR/pdf/terms.pdf"
+    },
+    "Ranking Parameters Description": {
+      "fetch": "https://www.videdressing.com/static/ranking.html",
+      "select": [
+        ".main-content"
+      ],
+      "remove": [
+        ".breadcrumb"
+      ]
     }
   }
 }
