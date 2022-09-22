@@ -12,6 +12,13 @@
       "select": [
         "#Main"
       ]
+    },
+    "Business Privacy Policy": {
+      "fetch": "https://www.shopify.com/legal/privacy/merchants",
+      "select": [
+        ".background-cyan-0 > .grid",
+        ".privacy-policy"
+      ]
     }
   }
 }
