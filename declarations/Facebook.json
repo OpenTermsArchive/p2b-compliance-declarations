@@ -26,6 +26,16 @@
         "cleanUrls"
       ],
       "executeClientScripts": true
+    },
+    "Platform to Business Notice": {
+      "fetch": "https://www.facebook.com/legal/PlatformtoBusinessNotice",
+      "select": [
+        {
+          "startAfter": "#ssrb_top_nav_end",
+          "endBefore": "[role=\"separator\"]"
+        }
+      ],
+      "executeClientScripts": true
     }
   }
 }
