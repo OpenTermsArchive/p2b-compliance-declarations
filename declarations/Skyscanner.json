@@ -16,7 +16,7 @@
     "Business Privacy Policy": {
       "fetch": "https://www.partners.skyscanner.net/privacy-policy",
       "select": [
-        ".col8"
+        ".body-container-wrapper"
       ]
     }
   }
