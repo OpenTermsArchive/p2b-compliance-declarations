@@ -21,6 +21,12 @@
           "endBefore": ".explore-cards"
         }
       ]
+    },
+    "Business Mediation Policy": {
+      "fetch": "https://support.google.com/legal/answer/9792937?hl=en-GB&ref_topic=4556931#zippy=%2Crequest-mediation%2Cmediation-request-form",
+      "select": [
+        ".article-container"
+      ]
     }
   }
 }
