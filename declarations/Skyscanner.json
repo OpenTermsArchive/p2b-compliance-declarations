@@ -12,6 +12,12 @@
       "select": [
         ".content"
       ]
+    },
+    "Business Privacy Policy": {
+      "fetch": "https://www.partners.skyscanner.net/privacy-policy",
+      "select": [
+        ".col8"
+      ]
     }
   }
 }
