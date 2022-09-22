@@ -11,6 +11,12 @@
         ".rule-text-indicate"
       ],
       "executeClientScripts": true
+    },
+    "Premium Partner Conditions": {
+      "fetch": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b201906251608_13446.html",
+      "select": [
+        ".agreementpreview"
+      ]
     }
   }
 }
