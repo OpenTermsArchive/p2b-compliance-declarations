@@ -6,6 +6,13 @@
       "select": [
         ".content"
       ]
+    },
+    "Platform to Business Notice": {
+      "fetch": "https://www.skyscanner.net/media/regulation-2019-1150-platform-to-business-regulation",
+      "select": [
+        ".single-post__title",
+        ".entry-content"
+      ]
     }
   }
 }
