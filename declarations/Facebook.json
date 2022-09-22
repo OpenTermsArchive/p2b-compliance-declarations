@@ -35,6 +35,9 @@
           "endBefore": "[role=\"separator\"]"
         }
       ],
+      "filter": [
+        "cleanUrls"
+      ],
       "executeClientScripts": true
     }
   }
