@@ -27,7 +27,8 @@
       ],
       "remove": [
         ".related-articles",
-        ".article-votes"
+        ".article-votes",
+        ".wt-display-none"
       ],
       "executeClientScripts": true
     }
