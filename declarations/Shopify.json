@@ -12,6 +12,15 @@
       "select": [
         "#Main"
       ]
+    },
+    "Business Privacy Policy": {
+      "fetch": "https://www.shopify.com/legal/privacy/merchants",
+      "select": [
+        "#Main"
+      ],
+      "remove": [
+        "#Main > nav"
+      ]
     }
   }
 }
