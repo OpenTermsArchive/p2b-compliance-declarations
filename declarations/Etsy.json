@@ -19,6 +19,17 @@
         ".sub-page-heading",
         "#category-dropdown"
       ]
+    },
+    "Platform to Business Notice": {
+      "fetch": "https://help.etsy.com/hc/en-gb/articles/360051541413?segment=selling",
+      "select": [
+        ".article"
+      ],
+      "remove": [
+        ".related-articles",
+        ".article-votes"
+      ],
+      "executeClientScripts": true
     }
   }
 }
