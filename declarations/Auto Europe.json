@@ -1,0 +1,11 @@
+{
+  "name": "Auto Europe",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.autoeurope.ie/agents-affiliates/affterms/",
+      "select": [
+        ".agentsaffiliates_display_body"
+      ]
+    }
+  }
+}
