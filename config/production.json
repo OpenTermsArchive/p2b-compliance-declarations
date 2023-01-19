@@ -9,14 +9,16 @@
       "storage": {
         "git": {
           "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/p2b-compliance-snapshots/commit/%SNAPSHOT_ID",
-          "repository": "git@github.com:OpenTermsArchive/p2b-compliance-versions.git"
+          "repository": "git@github.com:OpenTermsArchive/p2b-compliance-versions.git",
+          "path": "./data/versions"
         }
       }
     },
     "snapshots": {
       "storage": {
         "git": {
-          "repository": "git@github.com:OpenTermsArchive/p2b-compliance-snapshots.git"
+          "repository": "git@github.com:OpenTermsArchive/p2b-compliance-snapshots.git",
+          "path": "./data/snapshots"
         }
       }
     }
