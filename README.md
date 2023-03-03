@@ -2,7 +2,7 @@
 
 These services declarations are maintained by [PPMI](https://ppmi.lt), [OpenEvidence](https://open-evidence.com) and [Open Terms Archive](https://opentermsarchive.org) on behalf of the European Commission through [framework contract (FWC) 2018/RTD/A2/OP/PP-07001-2018](https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3490) (Lot 3) and tracked on [Open Terms Archive](https://opentermsarchive.org).
 
-These service declarations are consumed by the [Open Terms Archive engine](https://github.com/ambanum/OpenTermsArchive). See the Open Terms Archive [contribution guidelines](https://github.com/OpenTermsArchive/contrib-declarations/blob/main/CONTRIBUTING.md) to learn how to add and update services or documents.
+These service declarations are consumed by the [Open Terms Archive engine](https://github.com/OpenTermsArchive/engine). See the Open Terms Archive [contribution guidelines](https://github.com/OpenTermsArchive/contrib-declarations/blob/main/CONTRIBUTING.md) to learn how to add and update services or documents.
 
 You can [explore the tracked versions](https://github.com/OpenTermsArchive/p2b-compliance-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/p2b-compliance-versions/releases) in the `OpenTermsArchive/p2b-compliance-versions` repository.
 
