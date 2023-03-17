@@ -12,9 +12,9 @@ You can [explore the tracked versions](https://github.com/OpenTermsArchive/p2b-c
 
 The terms tracked by this repository are those of services that operate:
 
-- In the European Union jurisdiction.
+- In the European Union.
 - When available, in English; otherwise in the official language of the country of incorporation of the provider.
-- Fall under Regulation (EU) 2019/1150 of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services (the [P2B Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019R1150)), that entered into force on 12 July 2019 and has applied since 12 July 2020.
+- Under Regulation (EU) 2019/1150 of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services (the [P2B Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019R1150)), that entered into force on 12 July 2019 and has applied since 12 July 2020.
 
 The aim of this dataset is to enable monitoring of the implementation of the P2B Regulation.
 
