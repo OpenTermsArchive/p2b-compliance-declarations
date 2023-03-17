@@ -22,7 +22,7 @@ The aim of this dataset is to enable monitoring of the implementation of the P2B
 
 ## Contribute
 
-This collection does not have a known maintainer, and contributions are thus unlikely to be handled.
+This collection does not have an active maintainer, and contributions are thus unlikely to be handled.
 
 - - -
 
