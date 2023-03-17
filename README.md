@@ -22,7 +22,7 @@ The aim of this dataset is to enable monitoring of the implementation of the P2B
 
 ## Contribute
 
-In order to contribute to this collection, you should find useful information in the guidelines to learn how to [declare](https://docs.opentermsarchive.org/guidelines/declaring/) and [target](https://docs.opentermsarchive.org/guidelines/targeting/) documents.
+This collection does not have a known maintainer, and contributions are thus unlikely to be handled.
 
 - - -
 
