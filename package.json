@@ -2,8 +2,9 @@
   "type": "module",
   "license": "AGPL-3.0",
   "scripts": {
-    "lint": "ota lint ",
-    "test": "ota validate",
+    "lint": "ota lint",
+    "lint:fix": "ota lint -- --fix",
+    "test": "ota lint && ota validate",
     "test:schema": "npm run test -- --schema-only",
     "test:modified": "npm run test -- --modified",
     "start": "ota track",
