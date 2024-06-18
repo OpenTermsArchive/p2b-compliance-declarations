@@ -47,6 +47,34 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "name": "Lucie Lechardoy",
+      "profile": "https://www.linkedin.com/in/lucie-lechardoy-b092b745/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "name": "Paolo Calderoni",
+      "profile": "https://www.linkedin.com/in/paolo-calderoni/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "name": "Giacomo Stazi",
+      "profile": "https://www.linkedin.com/in/giacomo-stazi-a14a15136/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "name": "Carlos Torrado Ortega",
+      "profile": "https://www.linkedin.com/in/carlos-torrado-ortega-753204139/",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "repoType": "github",
