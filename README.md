@@ -1,8 +1,8 @@
 # Open Terms Archive - P2B Compliance services
 
-These services declarations are maintained by [PPMI](https://ppmi.lt), [OpenEvidence](https://open-evidence.com) and [Open Terms Archive](https://opentermsarchive.org) on behalf of the European Commission through [framework contract (FWC) 2018/RTD/A2/OP/PP-07001-2018](https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3490) (Lot 3) and tracked on [Open Terms Archive](https://opentermsarchive.org).
+**These services declarations are not maintained since October 2022, and versions are not generated since August 2024.**
 
-These service declarations are consumed by the [Open Terms Archive engine](https://github.com/OpenTermsArchive/engine).
+These declarations were created by [PPMI](https://ppmi.lt), [OpenEvidence](https://open-evidence.com) and [Open Terms Archive](https://opentermsarchive.org) to [assess](https://op.europa.eu/en/publication-detail/-/publication/a91f4a7b-5144-11ee-9220-01aa75ed71a1/language-en/format-PDF/source-search) the application of the P2B Regulation on behalf of the European Commission through [framework contract (FWC) 2018/RTD/A2/OP/PP-07001-2018](https://etendering.ted.europa.eu/cft/cft-display.html?cftId=3490) (Lot 3) and tracked by [Open Terms Archive](https://opentermsarchive.org).
 
 You can [explore the tracked versions](https://github.com/OpenTermsArchive/p2b-compliance-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/p2b-compliance-versions/releases) in the `OpenTermsArchive/p2b-compliance-versions` repository.
 
