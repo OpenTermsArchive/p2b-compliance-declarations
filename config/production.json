@@ -1,44 +1,48 @@
 {
-  "name": "p2b_compliance",
-  "services": {
-    "repository": "https://github.com/OpenTermsArchive/p2b-compliance-declarations.git",
-    "declarationsPath": "./declarations"
-  },
-  "recorder": {
-    "versions": {
-      "storage": {
-        "git": {
-          "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/p2b-compliance-snapshots/commit/%SNAPSHOT_ID",
-          "repository": "git@github.com:OpenTermsArchive/p2b-compliance-versions.git",
-          "path": "./data/versions"
+  "@opentermsarchive/engine": {
+    "recorder": {
+      "versions": {
+        "storage": {
+          "git": {
+            "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/p2b-compliance-snapshots/commit/%SNAPSHOT_ID",
+            "repository": "git@github.com:OpenTermsArchive/p2b-compliance-versions.git",
+            "path": "./data/versions"
+          }
+        }
+      },
+      "snapshots": {
+        "storage": {
+          "git": {
+            "repository": "git@github.com:OpenTermsArchive/p2b-compliance-snapshots.git",
+            "path": "./data/snapshots"
+          }
         }
       }
     },
-    "snapshots": {
-      "storage": {
-        "git": {
-          "repository": "git@github.com:OpenTermsArchive/p2b-compliance-snapshots.git",
-          "path": "./data/snapshots"
-        }
+    "fetcher": {
+      "language": "en"
+    },
+    "notifier": {
+      "sendInBlue": {
+        "updatesListId": 861,
+        "updateTemplateId": 56
       }
+    },
+    "logger": {
+      "timestampPrefix": false
+    },
+    "tracker": {
+      "githubIssues": {
+        "repository": "OpenTermsArchive/p2b-compliance-declarations"
+      }
+    },
+    "dataset": {
+      "title": "p2b-compliance",
+      "versionsRepositoryURL": "https://github.com/OpenTermsArchive/p2b-compliance-versions"
+    },
+    "collection-api": {
+      "port": 3000,
+      "basePath": "/collection-api"
     }
-  },
-  "fetcher": {
-    "language": "en"
-  },
-  "notifier": {
-    "sendInBlue": {
-      "updatesListId": 861,
-      "updateTemplateId": 56
-    }
-  },
-  "tracker": {
-    "githubIssues": {
-      "repository": "OpenTermsArchive/p2b-compliance-declarations"
-    }
-  },
-  "dataset": {
-    "title": "p2b-compliance",
-    "versionsRepositoryURL": "https://github.com/OpenTermsArchive/p2b-compliance-versions"
   }
 }
