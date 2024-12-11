@@ -19,26 +19,14 @@ trackingPeriods:
     schedule: "30 */6 * * *"
     serverLocation: London, GB
 governance:
-  hosts:
-    - name: Open Evidence
-      url: https://open-evidence.com/
-      logo: https://opentermsarchive.org/images/contributors/open-evidence.png
-  administrators:
-    - name: Open Evidence
-      url: https://open-evidence.com/
-      logo: https://opentermsarchive.org/images/contributors/open-evidence.png
-  curators:
-    - name: Open Evidence
-      url: https://open-evidence.com/
-      logo: https://opentermsarchive.org/images/contributors/open-evidence.png
-  maintainers:
-    - name: Open Evidence
-      url: https://open-evidence.com/
-      logo: https://opentermsarchive.org/images/contributors/open-evidence.png
-  sponsors:
-    - name: European Commission
-      url: https://commission.europa.eu
-      logo: https://opentermsarchive.org/images/contributors/european-commission.png
+  Open Evidence:
+    url: https://open-evidence.com
+    logo: https://opentermsarchive.org/images/contributors/open-evidence.png
+    roles: [host, administrator, curator, maintainer]
+  European Commission:
+    url: https://commission.europa.eu
+    logo: https://opentermsarchive.org/images/contributors/european-commission.png
+    roles: [sponsor]
 
 i18n:
   fr: 
@@ -48,7 +36,6 @@ i18n:
       
       Suite au succès de la mise en œuvre, la Commission européenne a adopté directement Open Terms Archive. Elle exploite depuis décembre 2023 sa propre instance et publie la [Digital Services Terms and Conditions Database](https://platform-contracts.digital-strategy.ec.europa.eu/).
     governance:
-      sponsors:
-        - name: Commission européenne
-          url: https://commission.europa.eu
-          logo: https://opentermsarchive.org/images/contributors/commission-europeenne.png
+      European Commission:
+        name: Commission européenne
+        logo: https://opentermsarchive.org/images/contributors/commission-europeenne.png
