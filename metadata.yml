@@ -1,0 +1,54 @@
+id: p2b-compliance
+name: P2B Compliance
+tagline: Online intermediation services for businesses in Europe
+description: |
+  The **Platform-to-Business Compliance** (P2B) collection was originally created by [PPMI](https://ppmi.lt) and [OpenEvidence](https://open-evidence.com) to [assess](https://op.europa.eu/en/publication-detail/-/publication/a91f4a7b-5144-11ee-9220-01aa75ed71a1/language-en/format-PDF/source-search) the application of the [P2B 2019/1150](https://eur-lex.europa.eu/eli/reg/2019/1150/oj) on behalf of the European Commission.
+  
+  Following the success of the implementation, the European Commission adopted Open Terms Archive directly. It operates its own on-premises instance since December 2023 and publishes the [Digital Services Terms and Conditions Database](https://platform-contracts.digital-strategy.ec.europa.eu/).
+dataset: https://github.com/OpenTermsArchive/p2b-compliance-versions/releases
+declarations: https://github.com/OpenTermsArchive/p2b-compliance-declarations
+versions: https://github.com/OpenTermsArchive/p2b-compliance-versions
+snapshots: https://github.com/OpenTermsArchive/p2b-compliance-snapshots
+donations: https://opencollective.com/opentermsarchive
+logo: https://opentermsarchive.org/images/collections/p2b-compliance.png
+languages: [bg, cs, da, de, el, en, es, et, fi, fr, ga, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv]
+jurisdictions: [EU]
+trackingPeriods:
+  - startDate: 2022-07-19
+    endDate: 2024-08-01
+    schedule: "30 */6 * * *"
+    serverLocation: London, GB
+governance:
+  hosts:
+    - name: Open Evidence
+      url: https://open-evidence.com/
+      logo: https://opentermsarchive.org/images/contributors/open-evidence.png
+  administrators:
+    - name: Open Evidence
+      url: https://open-evidence.com/
+      logo: https://opentermsarchive.org/images/contributors/open-evidence.png
+  curators:
+    - name: Open Evidence
+      url: https://open-evidence.com/
+      logo: https://opentermsarchive.org/images/contributors/open-evidence.png
+  maintainers:
+    - name: Open Evidence
+      url: https://open-evidence.com/
+      logo: https://opentermsarchive.org/images/contributors/open-evidence.png
+  sponsors:
+    - name: European Commission
+      url: https://commission.europa.eu
+      logo: https://opentermsarchive.org/images/contributors/european-commission.png
+
+i18n:
+  fr: 
+    tagline: Services d’intermédiation en ligne pour les entreprises européennes
+    description: | 
+      La collection **Platform-to-Business Compliance** (P2B) a été originellement créée par [PPMI](https://ppmi.lt) et [OpenEvidence](https://open-evidence.com) pour [évaluer](https://op.europa.eu/en/publication-detail/-/publication/a91f4a7b-5144-11ee-9220-01aa75ed71a1/language-en/format-PDF/source-search) l'application du règlement [P2B 2019/1150](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019R1150&from=EN) pour le compte de la Commission européenne.
+      
+      Suite au succès de la mise en œuvre, la Commission européenne a adopté directement Open Terms Archive. Elle exploite depuis décembre 2023 sa propre instance et publie la [Digital Services Terms and Conditions Database](https://platform-contracts.digital-strategy.ec.europa.eu/).
+    governance:
+      sponsors:
+        - name: Commission européenne
+          url: https://commission.europa.eu
+          logo: https://opentermsarchive.org/images/contributors/commission-europeenne.png
