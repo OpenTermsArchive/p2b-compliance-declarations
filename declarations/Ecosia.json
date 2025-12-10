@@ -1,6 +1,6 @@
 {
   "name": "Ecosia",
-  "documents": {
+  "terms": {
     "Ranking Parameters Description": {
       "fetch": "https://ecosia.zendesk.com/hc/en-us/articles/204698962-How-do-search-engines-work-",
       "select": [

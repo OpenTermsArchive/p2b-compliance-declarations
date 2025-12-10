@@ -1,6 +1,6 @@
 {
   "name": "e-restaurants.gr",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.e-restaurants.gr/en/terms",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "Bazaraki",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.bazaraki.com/about/rules/",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "Zaask",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.zaask.pt/termos",
       "select": [

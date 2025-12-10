@@ -1,6 +1,6 @@
 {
   "name": "Oikotie",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.oikotie.fi/kayttoehdot/en",
       "select": [

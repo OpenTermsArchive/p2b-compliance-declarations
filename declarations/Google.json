@@ -1,6 +1,6 @@
 {
   "name": "Google",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://policies.google.com/terms?hl=en-US",
       "select": [

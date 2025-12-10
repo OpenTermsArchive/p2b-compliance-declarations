@@ -1,6 +1,6 @@
 {
   "name": "Houzz Pro",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.houzz.ie/proServicesAgreement",
       "select": [

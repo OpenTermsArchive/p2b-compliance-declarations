@@ -1,6 +1,6 @@
 {
   "name": "Wish",
-  "documents": {
+  "terms": {
     "Marketplace Sellers Conditions": {
       "fetch": "https://merchant.wish.com/terms-of-service",
       "select": [

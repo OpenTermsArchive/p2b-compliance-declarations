@@ -1,6 +1,6 @@
 {
   "name": "Hostelworld",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://u.hwstatic.com/contracts/EN_April2018.pdf"
     }

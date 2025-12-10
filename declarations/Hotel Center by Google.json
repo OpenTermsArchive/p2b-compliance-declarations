@@ -1,6 +1,6 @@
 {
   "name": "Hotel Center by Google",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://hotelcenter.google.com/termsofservice/EMEA/en/tos.html",
       "select": [

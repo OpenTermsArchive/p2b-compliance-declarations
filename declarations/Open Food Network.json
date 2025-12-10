@@ -1,6 +1,6 @@
 {
   "name": "Open Food Network",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://openfoodnetwork.be/Terms-of-service.pdf"
     }

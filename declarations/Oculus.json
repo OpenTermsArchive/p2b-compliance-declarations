@@ -1,6 +1,6 @@
 {
   "name": "Oculus",
-  "documents": {
+  "terms": {
     "Developer Terms": {
       "fetch": "https://developer.oculus.com/policy/p2b/",
       "select": [

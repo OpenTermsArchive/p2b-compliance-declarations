@@ -1,6 +1,6 @@
 {
   "name": "Ceneje.si",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.ceneje.si/pogoji-uporabe",
       "select": [

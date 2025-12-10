@@ -1,6 +1,6 @@
 {
   "name": "VSprace.cz",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://vsprace.cz/vseobecne-obchodni-podminky",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "Car.gr",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.car.gr/information/terms/?lang=en",
       "select": [

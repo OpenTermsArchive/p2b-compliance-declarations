@@ -1,6 +1,6 @@
 {
   "name": "Tripadvisor",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://tripadvisor.mediaroom.com/ie-terms-of-use",
       "select": [

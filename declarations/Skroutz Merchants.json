@@ -1,6 +1,6 @@
 {
   "name": "Skroutz Merchants",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://merchants.skroutz.gr/merchants/terms/marketplace",
       "select": [

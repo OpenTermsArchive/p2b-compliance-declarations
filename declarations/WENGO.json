@@ -1,6 +1,6 @@
 {
   "name": "WENGO",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.wengo.fr/a-propos/cgu",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "123devis.com",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.123devis.com/conditions_utilisation.php",
       "select": [

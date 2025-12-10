@@ -1,6 +1,6 @@
 {
   "name": "mobile.de",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://www.mobile.de/service/agbProfessional",
       "select": [

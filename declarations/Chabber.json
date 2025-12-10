@@ -1,6 +1,6 @@
 {
   "name": "Chabber",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.chabber.com/TermsAndConditions.pdf"
     }

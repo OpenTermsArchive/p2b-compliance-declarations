@@ -1,6 +1,6 @@
 {
   "name": "Tradera",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://info.tradera.com/en/anvandaravtal-eng/",
       "select": [

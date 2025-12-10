@@ -1,6 +1,6 @@
 {
   "name": "AlloVoisins",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.allovoisins.com/page/conditions-generales-de-vente-et-d-utilisation",
       "select": [

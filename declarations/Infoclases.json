@@ -1,6 +1,6 @@
 {
   "name": "Infoclases",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://infoclases.com/terminoslegales",
       "select": [

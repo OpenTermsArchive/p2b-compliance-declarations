@@ -1,6 +1,6 @@
 {
   "name": "Messenger",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://www.facebook.com/legal/commercial_terms",
       "select": [

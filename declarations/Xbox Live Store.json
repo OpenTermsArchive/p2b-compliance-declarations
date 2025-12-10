@@ -1,6 +1,6 @@
 {
   "name": "Xbox Live Store",
-  "documents": {
+  "terms": {
     "Developer Terms": {
       "fetch": "https://go.microsoft.com/fwlink/?linkid=528905&ext=.pdf"
     }

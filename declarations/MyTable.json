@@ -1,6 +1,6 @@
 {
   "name": "MyTable",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://mytable.sa/#/clientAgreement",
       "select": [

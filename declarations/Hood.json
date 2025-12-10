@@ -1,6 +1,6 @@
 {
   "name": "Hood",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.hood.de/nutzungsbedingungen.htm",
       "select": [

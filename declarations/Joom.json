@@ -1,6 +1,6 @@
 {
   "name": "Joom",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://merchant.joom.com/eu/terms/",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "Google Business Profile",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://support.google.com/business/answer/9292476?hl=en",
       "select": [

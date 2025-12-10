@@ -1,6 +1,6 @@
 {
   "name": "GetaPro",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://getapro.lv/home/termsandconditions",
       "select": [

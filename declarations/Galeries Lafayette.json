@@ -1,6 +1,6 @@
 {
   "name": "Galeries Lafayette",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.galerieslafayette.com/service/conditions-generals",
       "select": [

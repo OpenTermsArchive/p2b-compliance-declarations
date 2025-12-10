@@ -22,7 +22,7 @@ governance:
   Open Evidence:
     url: https://open-evidence.com
     logo: https://opentermsarchive.org/images/contributors/open-evidence.png
-    roles: [host, administrator, curator, maintainer]
+    roles: [host, sysadmin, curator, maintainer]
   European Commission:
     url: https://commission.europa.eu
     logo: https://opentermsarchive.org/images/contributors/european-commission.png

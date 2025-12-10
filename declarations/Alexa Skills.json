@@ -1,6 +1,6 @@
 {
   "name": "Alexa Skills",
-  "documents": {
+  "terms": {
     "Developer Terms": {
       "fetch": "https://developer.amazon.com/support/legal/alexa-hipaa-baa",
       "select": [

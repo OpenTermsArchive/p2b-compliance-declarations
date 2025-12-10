@@ -1,6 +1,6 @@
 {
   "name": "Reverb",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://reverb.com/legal/reverbcom-terms-of-use",
       "select": [

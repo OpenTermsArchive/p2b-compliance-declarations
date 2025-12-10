@@ -1,6 +1,6 @@
 {
   "name": "SAPO Biz",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://ajuda.sapo.pt/condicoes-de-utilizacao-sapo-biz-60687",
       "select": [

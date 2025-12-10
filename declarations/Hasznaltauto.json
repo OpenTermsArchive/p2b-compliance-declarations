@@ -1,6 +1,6 @@
 {
   "name": "Használtautó",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://adatvedelem.hasznaltauto.hu/aszf/",
       "select": [

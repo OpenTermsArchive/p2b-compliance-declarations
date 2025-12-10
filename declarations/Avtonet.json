@@ -1,6 +1,6 @@
 {
   "name": "Avtonet",
-  "documents": {
+  "terms": {
     "Ranking Parameters Description": {
       "fetch": "https://www.avto.net/help.asp",
       "select": [

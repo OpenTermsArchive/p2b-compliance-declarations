@@ -1,6 +1,6 @@
 {
   "name": "Tori",
-  "documents": {
+  "terms": {
     "Marketplace Sellers Conditions": {
       "fetch": "https://schibstedforbusiness.com/finland/documents/B2B-yleiset-kayttoehdot.pdf"
     }

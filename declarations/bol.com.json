@@ -1,6 +1,6 @@
 {
   "name": "bol.com",
-  "documents": {
+  "terms": {
     "Marketplace Sellers Conditions": {
       "fetch": "https://www.bol.com/be/nl/m/overeenkomst-verkoper-zakelijk",
       "select": [

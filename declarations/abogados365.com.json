@@ -1,6 +1,6 @@
 {
   "name": "abogados365.com",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.abogados365.com/aviso_legal",
       "select": [

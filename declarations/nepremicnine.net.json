@@ -1,6 +1,6 @@
 {
   "name": "nepremicnine.net",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.realestate-slovenia.info/pogoji-uporabe.html",
       "select": [

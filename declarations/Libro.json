@@ -1,6 +1,6 @@
 {
   "name": "Libro",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://librorez.com/en/terms/",
       "select": [

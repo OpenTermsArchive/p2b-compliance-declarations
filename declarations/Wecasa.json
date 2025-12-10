@@ -1,6 +1,6 @@
 {
   "name": "Wecasa",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.wecasa.fr/conditions-generales",
       "select": [

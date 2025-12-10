@@ -1,6 +1,6 @@
 {
   "name": "Ring Twice",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://ringtwice.be/fr/conditions-generales",
       "select": [

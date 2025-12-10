@@ -1,6 +1,6 @@
 {
   "name": "greatcontent",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://greatcontent.com/toc-linguists/",
       "select": [

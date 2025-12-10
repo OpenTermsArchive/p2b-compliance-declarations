@@ -1,6 +1,6 @@
 {
   "name": "jaspravim.sk",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.jaspravim.sk/obchodne-podmienky",
       "select": [

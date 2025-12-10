@@ -1,6 +1,6 @@
 {
   "name": "Sailsquare",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://it.sailsquare.com/termini-e-condizioni",
       "select": [

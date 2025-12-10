@@ -1,6 +1,6 @@
 {
   "name": "Fresha",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://terms.fresha.com/terms-service",
       "select": [

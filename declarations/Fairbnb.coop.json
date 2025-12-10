@@ -1,6 +1,6 @@
 {
   "name": "Fairbnb.coop",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://fairbnb.coop/terms-of-use/",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "foodora",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://euvolo-images.foodora.com/marketing/production/op/images/nl/contents/partneravtal/General%20terms%20for%20Partner%20Agreements%20-%20Restaurants%20%28January%202021%29.pdf?v=1421759604"
     }

@@ -1,6 +1,6 @@
 {
   "name": "Preply",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://termsofuse.preply.com/terms_of_use/en_TermsOfService.pdf"
     }

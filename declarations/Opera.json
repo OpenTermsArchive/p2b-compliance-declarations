@@ -1,6 +1,6 @@
 {
   "name": "Opera",
-  "documents": {
+  "terms": {
     "Marketplace Sellers Conditions": {
       "fetch": "http://apps.opera.com/docs/DistributionAgreementHandster_standard.pdf"
     }

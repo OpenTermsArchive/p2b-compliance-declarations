@@ -1,6 +1,6 @@
 {
   "name": "Helpling",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://www.helpling.co.uk/provider_terms",
       "select": [

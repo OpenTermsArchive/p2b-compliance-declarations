@@ -1,6 +1,6 @@
 {
   "name": "CLASSGAP",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.classgap.com/en/info/terms",
       "select": [

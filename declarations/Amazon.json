@@ -1,6 +1,6 @@
 {
   "name": "Amazon",
-  "documents": {
+  "terms": {
     "Developer Terms": {
       "fetch": "https://developer.amazon.com/en/support/legal/da",
       "select": {
