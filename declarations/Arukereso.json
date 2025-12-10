@@ -1,6 +1,6 @@
 {
   "name": "Árukereső",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.arukereso.hu/static/general_terms_and_conditions.html",
       "select": [

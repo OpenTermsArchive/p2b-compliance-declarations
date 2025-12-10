@@ -1,6 +1,6 @@
 {
   "name": "Aptoide",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://en.aptoide.com/company/legal?section=distribution",
       "select": [

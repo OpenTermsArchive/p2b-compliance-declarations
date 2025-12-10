@@ -1,6 +1,6 @@
 {
   "name": "Seznam.cz",
-  "documents": {
+  "terms": {
     "Ranking Parameters Description": {
       "fetch": "https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/",
       "select": [

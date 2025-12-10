@@ -1,6 +1,6 @@
 {
   "name": "mobile.bg",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.mobile.bg/pcgi/mobile.cgi?act=9&mode=4",
       "select": [

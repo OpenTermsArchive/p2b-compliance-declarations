@@ -1,6 +1,6 @@
 {
   "name": "OLX",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://help.olx.pt/hc/pt/articles/204347562",
       "select": [

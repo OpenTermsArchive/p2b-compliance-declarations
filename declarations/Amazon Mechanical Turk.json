@@ -1,6 +1,6 @@
 {
   "name": "Amazon Mechanical Turk",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://www.mturk.com/privacy-notice",
       "select": [

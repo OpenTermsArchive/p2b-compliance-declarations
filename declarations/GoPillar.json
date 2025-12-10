@@ -1,6 +1,6 @@
 {
   "name": "GoPillar",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://gopillar.com/it/terms-conditions/",
       "select": [

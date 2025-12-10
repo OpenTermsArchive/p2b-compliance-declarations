@@ -1,6 +1,6 @@
 {
   "name": "CustoJusto",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.custojusto.pt/ajuda-rules",
       "select": [

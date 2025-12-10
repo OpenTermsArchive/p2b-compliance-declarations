@@ -1,6 +1,6 @@
 {
   "name": "Autobazar.EU",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.autobazar.eu/uk/terms.php",
       "select": [

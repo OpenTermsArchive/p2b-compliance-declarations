@@ -1,6 +1,6 @@
 {
   "name": "Blacklane",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://www.blacklane.com/en/privacy-policy/",
       "select": [

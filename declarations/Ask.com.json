@@ -1,6 +1,6 @@
 {
   "name": "Ask.com",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.ask.com/terms",
       "select": [

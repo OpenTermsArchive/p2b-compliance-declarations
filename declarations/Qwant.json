@@ -1,6 +1,6 @@
 {
   "name": "Qwant",
-  "documents": {
+  "terms": {
     "Ranking Parameters Description": {
       "fetch": "https://about.qwant.com/en/legal/classement/",
       "select": [

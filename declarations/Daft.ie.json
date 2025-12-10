@@ -1,6 +1,6 @@
 {
   "name": "Daft.ie",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://publish.daft.ie/legal",
       "select": [

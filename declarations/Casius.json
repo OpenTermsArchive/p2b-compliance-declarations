@@ -1,6 +1,6 @@
 {
   "name": "Casius",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.casius.be/media/4q5mii1a/av-casius-be-nl.pdf"
     }

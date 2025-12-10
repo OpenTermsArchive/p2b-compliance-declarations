@@ -1,6 +1,6 @@
 {
   "name": "Skelbiu.lt",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.skelbiu.lt/pagalba.html",
       "select": [

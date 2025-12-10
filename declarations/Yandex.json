@@ -1,6 +1,6 @@
 {
   "name": "Yandex",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://yandex.com/legal/termsofservice/index.html",
       "select": [

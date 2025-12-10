@@ -1,6 +1,6 @@
 {
   "name": "Hemnet",
-  "documents": {
+  "terms": {
     "Ad Publishing Policy": {
       "fetch": "https://assets.hemnet.se/assets/dokument/hemnet_avtalsvillkor_for_annonstjanster_20211115.pdf"
     },

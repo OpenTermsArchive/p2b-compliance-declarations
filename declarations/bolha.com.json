@@ -1,6 +1,6 @@
 {
   "name": "bolha.com",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.bolha.com/index.php?ctl=show_static_page&alias=disclaimer",
       "select": [

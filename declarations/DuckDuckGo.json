@@ -1,6 +1,6 @@
 {
   "name": "DuckDuckGo",
-  "documents": {
+  "terms": {
     "Ranking Parameters Description": {
       "fetch": "https://help.duckduckgo.com/duckduckgo-help-pages/results/sources/",
       "select": [

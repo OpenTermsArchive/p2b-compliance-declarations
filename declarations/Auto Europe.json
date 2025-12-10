@@ -1,6 +1,6 @@
 {
   "name": "Auto Europe",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://www.autoeurope.ie/agents-affiliates/affterms/",
       "select": [

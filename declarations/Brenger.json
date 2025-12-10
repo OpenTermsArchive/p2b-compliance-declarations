@@ -1,6 +1,6 @@
 {
   "name": "Brenger",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://www.brenger.nl/en-nl/general-terms-driver",
       "select": [

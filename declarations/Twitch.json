@@ -1,6 +1,6 @@
 {
   "name": "Twitch",
-  "documents": {
+  "terms": {
     "Developer Terms": {
       "fetch": "https://www.twitch.tv/p/en/legal/developer-agreement/",
       "select": [

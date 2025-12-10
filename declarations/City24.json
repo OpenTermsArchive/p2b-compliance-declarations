@@ -1,6 +1,6 @@
 {
   "name": "City24",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://www.city24.ee/info/personal-data-processing",
       "select": [

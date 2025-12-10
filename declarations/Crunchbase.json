@@ -1,6 +1,6 @@
 {
   "name": "Crunchbase",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://about.crunchbase.com/terms-of-service/",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "Avocadostore",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.avocadostore.de/terms_of_use",
       "select": [

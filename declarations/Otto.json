@@ -1,6 +1,6 @@
 {
   "name": "Otto",
-  "documents": {
+  "terms": {
     "Marketplace Sellers Conditions": {
       "fetch": "https://www.otto.market/en/t-and-c.html",
       "select": [

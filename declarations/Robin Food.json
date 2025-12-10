@@ -1,6 +1,6 @@
 {
   "name": "Robin Food",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://robinfood.coopcycle.org/en/terms",
       "select": [

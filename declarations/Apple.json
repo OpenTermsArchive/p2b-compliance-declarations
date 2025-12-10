@@ -1,6 +1,6 @@
 {
   "name": "Apple",
-  "documents": {
+  "terms": {
     "Developer Terms": {
       "fetch": "https://developer.apple.com/support/downloads/terms/apple-developer-program/Apple-Developer-Program-License-Agreement-20220606-English.pdf"
     }

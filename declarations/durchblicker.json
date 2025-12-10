@@ -1,6 +1,6 @@
 {
   "name": "durchblicker",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://durchblicker.at/agb#nutzerkonto",
       "select": [

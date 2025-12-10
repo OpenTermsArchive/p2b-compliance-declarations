@@ -1,6 +1,6 @@
 {
   "name": "GURUWALK",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.guruwalk.com/terms/terms_policy#s2",
       "select": [

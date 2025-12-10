@@ -1,6 +1,6 @@
 {
   "name": "Avoteca",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://avoteca.com/documents/ro/terms-conditions.pdf"
     },

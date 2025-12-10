@@ -1,6 +1,6 @@
 {
   "name": "Bing",
-  "documents": {
+  "terms": {
     "Ranking Parameters Description": {
       "fetch": "https://support.microsoft.com/en-gb/topic/how-bing-delivers-search-results-d18fc815-ac37-4723-bc67-9229ce3eb6a3",
       "select": [

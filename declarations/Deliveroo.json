@@ -1,6 +1,6 @@
 {
   "name": "Deliveroo",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://restaurants.deliveroo.com/en-ie/terms",
       "select": [

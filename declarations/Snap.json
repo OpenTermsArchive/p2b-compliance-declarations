@@ -1,6 +1,6 @@
 {
   "name": "Snap",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://snap.com/en-US/terms/business-services",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "Fyndiq",
-  "documents": {
+  "terms": {
     "Marketplace Sellers Conditions": {
       "fetch": "https://support.fyndiq.se/hc/en-se/articles/360057503591-Fyndiq-s-General-Terms-and-Conditions-for-Merchants",
       "select": [

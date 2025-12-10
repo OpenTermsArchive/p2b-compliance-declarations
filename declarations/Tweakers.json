@@ -1,6 +1,6 @@
 {
   "name": "Tweakers",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://tweakers.net/info/algemene-voorwaarden/",
       "select": [

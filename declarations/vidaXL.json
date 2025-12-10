@@ -1,6 +1,6 @@
 {
   "name": "vidaXL",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.vidaxl.es/terms-conditions-seller-vidaxl.html",
       "select": [

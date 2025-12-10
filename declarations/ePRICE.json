@@ -1,6 +1,6 @@
 {
   "name": "ePRICE",
-  "documents": {
+  "terms": {
     "Marketplace Sellers Conditions": {
       "fetch": "https://images.eprice.it/img/_n/nl-marketplace/Contratto_Marketplace.pdf"
     }

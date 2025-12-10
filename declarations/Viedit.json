@@ -1,6 +1,6 @@
 {
   "name": "Viedit",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://viedit.com/agreement",
       "select": [

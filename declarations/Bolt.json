@@ -1,6 +1,6 @@
 {
   "name": "Bolt",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://bolt.eu/en/legal/ie/terms-for-drivers/",
       "select": [

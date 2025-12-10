@@ -1,6 +1,6 @@
 {
   "name": "ClassPass",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://studios.classpass.com/help/spain_portugal/terms",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "Hood.de",
-  "documents": {
+  "terms": {
     "Ranking Parameters Description": {
       "fetch": "https://www.hood.de/tips/1472/ranking-optimieren.htm",
       "select": [

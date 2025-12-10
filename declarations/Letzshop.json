@@ -1,6 +1,6 @@
 {
   "name": "Letzshop",
-  "documents": {
+  "terms": {
     "Marketplace Sellers Conditions": {
       "fetch": "https://letzshop.lu/fr/agb",
       "select": {

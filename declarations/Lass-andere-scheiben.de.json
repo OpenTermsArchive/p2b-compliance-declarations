@@ -1,6 +1,6 @@
 {
   "name": "Lass-andere-schreiben.de",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.lass-andere-schreiben.de/agb-und-datenschutz",
       "select": [

@@ -1,6 +1,6 @@
 {
   "name": "Sir Local",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://www.sirlocal.pl/regulamin_fachowcy/",
       "select": [

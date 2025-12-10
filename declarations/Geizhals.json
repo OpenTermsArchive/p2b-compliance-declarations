@@ -1,6 +1,6 @@
 {
   "name": "Geizhals",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://unternehmen.geizhals.at/allgemeine-geschaeftsbedingungen/",
       "select": [

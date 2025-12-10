@@ -1,6 +1,6 @@
 {
   "name": "Resonate",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://resonate.is/terms-conditions/",
       "select": [

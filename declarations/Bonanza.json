@@ -1,6 +1,6 @@
 {
   "name": "Bonanza",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.bonanza.com/site_help/user_agreement",
       "select": [

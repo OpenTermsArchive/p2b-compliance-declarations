@@ -1,6 +1,6 @@
 {
   "name": "kaufland.de",
-  "documents": {
+  "terms": {
     "Commercial Terms": {
       "fetch": "https://www.kaufland.de/agb/haendler-agb/",
       "select": [
