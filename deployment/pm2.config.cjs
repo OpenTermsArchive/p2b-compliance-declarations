@@ -1,11 +1,9 @@
 const path = require('path');
 
-const collectionId = path.basename(__dirname);
-
 module.exports = {
   apps: [
     {
-      name: `ota-${collectionId}-api`,
+      name: `ota-p2B-compliance-api`,
       script: 'npm',
       args: 'run start:collection-api',
       min_uptime: '10s',

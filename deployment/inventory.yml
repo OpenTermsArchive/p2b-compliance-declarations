@@ -1,6 +1,6 @@
 all:
   hosts:
-    198.244.153.104:
+    54.37.5.206:
       ansible_user: debian
-      ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAIITN8hTCst7+6mHNzeo465crCZwHrc/SzUL1410mb9Lv
+      ed25519_fingerprint:
       ota_source_repository: https://github.com/OpenTermsArchive/p2b-compliance-declarations.git

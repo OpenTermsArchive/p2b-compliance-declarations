@@ -42,7 +42,7 @@
     },
     "collection-api": {
       "port": 3002,
-      "basePath": "/api/p2b-compliance"
+      "basePath": "/p2b-compliance/collection-api"
     }
   }
 }
