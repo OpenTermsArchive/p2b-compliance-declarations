@@ -41,8 +41,8 @@
       "versionsRepositoryURL": "https://github.com/OpenTermsArchive/p2b-compliance-versions"
     },
     "collection-api": {
-      "port": 3000,
-      "basePath": "/collection-api"
+      "port": 3002,
+      "basePath": "/p2b-compliance/collection-api"
     }
   }
 }
