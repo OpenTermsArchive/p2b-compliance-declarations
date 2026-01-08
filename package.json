@@ -5,6 +5,6 @@
     "start:collection-api": "ota serve"
   },
   "dependencies": {
-    "@opentermsarchive/engine": "^10.1.2"
+    "@opentermsarchive/engine": "^10.1.3"
   }
 }
